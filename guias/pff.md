@@ -2188,3 +2188,251 @@ Como podemos advertir hasta este momento, ser un abogado defensor, Ministerio P�
  Pulse en el botón para ver las Fuentes de consulta.
 
  Fuentes de consulta
+
+## El Amparo Directo en Materia Penal
+
+Introducción
+-
+Se ha afirmado en diversos foros que uno de los principales retos que enfrenta el nuevo sistema de justicia penal es el juicio de amparo. Sin embargo, en las dos últimas unidades hemos analizado sus diferentes supuestos de procedibilidad y desterrado la idea de que el Juicio de Amparo se tiene que interponer hasta que el Tribunal de Alzada dicte sentencia, atendiendo al principio de definitividad.
+
+Sin embargo, como hemos estudiado hasta este momento, el juicio de amparo se puede interponer antes, durante y después del procedimiento penal y, debido a ello, sabe que el amparo indirecto es un medio de impugnación extraordinario, cuyos efectos dependerán del acto reclamado; y que el amparo directo es un recurso extraordinario, cuyo único efecto es confirmar, revocar o modificar el acto reclamado, es decir, la sentencia dictada por el tribunal de alzada.
+
+Le invitamos a ser consciente de que el objetivo del juicio de amparo en el nuevo sistema de justicia acusatorio y oral es el de una impartición de justicia penal pronta, expedita y con apego irrestricto a los derechos humanos y derechos fundamentales, tanto de la víctima, ofendido, como del imputado.
+
+En este momento, su reto principal es conocer los supuestos de procedibilidad del amparo directo en materia penal y sus características, para que cuando estén en el ejercicio profesional utilicen el juicio de amparo en todas las etapas del proceso penal.
+
+Para empezar, determinaremos cuáles son los tribunales judiciales competentes para conocer del juicio de amparo directo, tanto en el fuero común como en el fuero federal. Posteriormente, diferenciaremos los conceptos de garantía individual, derecho fundamental y derechos humanos ya que esto nos permitirá abordar el siguiente tema denominado conceptos de violación en el amparo directo.
+
+En este sentido, podemos adelantar que a partir de las reformas constitucionales de 2008, 2011 y la publicación de la Nueva Ley de Amparo (2013), se puedan elaborar tres tipos de argumentos en un concepto de violación: constitucionalidad, legalidad y convencionalidad del acto reclamado.
+
+Por último, determinaremos cuáles son las resoluciones dictadas por el órgano jurisdiccional que pueden impugnarse en el juicio de amparo directo.
+
+ 
+  Actividad Introductoria
+El amparo como medio de impugnación
+Falso o Verdadero
+
+Pulse sobre el botón Iniciar para realizar su actividad introductoria.
+
+ 
+Objetivo
+A lo largo de esta unidad, usted:
+
+Explicará la importancia del control de convencionalidad en el concepto de violación del amparo directo para hacer valer los derechos humanos consagrados en tratados internacionales.
+Determinará una estrategia de defensa para dar solución a un caso práctico mediante la provocación del acto, con lo que podrá iniciar el juicio de amparo, sin que se lo sobresean.
+Cuestionará la estrategia de defensa elaborada por los compañeros de grupo y argumentará sobre la mejor acción legal para defender un caso práctico.
+Temario
+Unidad 5. El Amparo Directo en Materia Penal
+
+5.1. El amparo directo en materia penal en el fuero común y en el fuero federal 
+5.2. Los conceptos de garantía individual en el amparo directo
+5.3. Conceptos de violación en el amparo directo 
+5.4. Tribunales que deben resolver el amparo directo
+5.5. Resoluciones que sólo pueden impugnarse con el amparo directo
+5.6. Los efectos del amparo directo
+
+ El amparo directo en materia penal en el fuero común y en el fuero federal
+
+Para hablar sobre el amparo directo en materia penal es imprescindible sentar dos premisas fundamentales: tipos de delitos, y competencia de los órganos jurisdiccionales.
+
+Tipos de delitos
+
+Para efectos de nuestra unidad, vamos a distinguir dos tipos de delitos: del fuero federal y del fuero común.
+
+ Pulse en las áreas que se marcan como sensibles para desplegar la información.
+ 
+
+TIPOS DE DELITO
+-
+
+FUERO FEDERAL
+
+
+Definamos...
+
+Los delitos del fuero federal son los que afectan la salud, la economía y, en general, la seguridad del país o los intereses de la federación, como puede ser su estructura, organización, funcionamiento y patrimonio.
+
+
+Por ejemplo...
+
+Algunos ejemplos de los delitos del fuero federal son: ataques a las vías generales de comunicación, contrabando, defraudación fiscal, delitos ecológicos, narcotráfico y otros contra la salud, portación ilegal de armas de fuego, reproducción ilegal de audio y video casetes, robo de bienes de la nación, lavado de dinero, tráfico de personas, delitos electorales, daños o robos al patrimonio arqueológico, artístico e histórico, etcétera; conductas que son perseguidas por el Ministerio Público Federal, investigadas por la Procuraduría General de la República (PGR) y juzgadas por el Poder Judicial Federal.
+
+
+La Ley establece…
+
+En su artículo 50, la Ley Orgánica del Poder Judicial de la Federación establece la competencia para los jueces federales penales, siendo éstos:
+
+“I. De los delitos del orden federal.
+
+Son delitos del orden federal:
+ a) Los previstos en las leyes federales y en los tratados internacionales.
+   b) Los señalados en los artículos 2 a 5 del Código Penal;
+  c) Los cometidos en el extranjero por los agentes diplomáticos, personal oficial de las legaciones de la República y cónsules mexicanos;
+   d) Los cometidos en las embajadas y legaciones extranjeras;
+   e) Aquellos en que la Federación sea sujeto pasivo;
+  f) Los cometidos por un servidor público o empleado federal, en ejercicio de sus funciones o con motivo de ellas;
+  h) Los perpetrados con motivo del funcionamiento de un servicio público federal, aunque dicho servicio esté descentralizado o concesionado;
+  i) Los perpetrados en contra del funcionamiento de un servicio público federal o en menoscabo de los bienes afectados a la satisfacción de dicho servicio, aunque éste se encuentre descentralizado o concesionado;
+   j) Todos aquéllos que ataquen, dificulten o imposibiliten el ejercicio de alguna atribución o facultad reservada a la Federación;
+  k) Los señalados en el artículo 389 del Código Penal cuando se prometa o se proporcione un trabajo en dependencia, organismo descentralizado o empresa de participación estatal del Gobierno Federal;
+   l) Los cometidos por o en contra de funcionarios electorales federales o de funcionarios partidistas en los términos de la fracción II del artículo 401 del Código Penal, y
+  m) Los previstos en los artículos 366, fracción III; 366 ter y 366 quáter del Código Penal Federal, cuando el delito sea con el propósito de trasladar o entregar al menor fuera del territorio nacional.
+
+II. De los procedimientos de extradición, salvo lo que se disponga en los tratados internacionales.
+III. De las autorizaciones para intervenir cualquier comunicación privada.
+IV. De los delitos del fuero común respecto de los cuales el Ministerio Público de la Federación hubiere ejercido la facultad de atracción”.
+
+FUERO COMÚN
+
+
+Definamos...
+
+Los delitos del fuero común son los que afectan directamente a las personas, es decir, en los cuales el efecto del delito recae sólo en la persona que es afectada por la conducta del delincuente.
+
+Estos ilícitos son perseguidos por los ministerios públicos del fuero común, investigados por las procuradurías y juzgados por los jueces penales del Poder Judicial del Distrito Federal.
+
+
+Por ejemplo...
+
+Algunos ejemplos de los delitos del fuero común son: amenazas, daños en propiedad ajena, delitos sexuales, fraudes y abusos de confianza, homicidio, lesiones, robo en cualquiera de sus modalidades: a casa habitación, a negocio, a transeúnte, de vehículos, etcétera.
+
+
+Definamos...
+
+La Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal, en su artículo primero, fija la competencia para los delitos del fuero común. En este sentido, tenemos que la administración e impartición de justicia en el Distrito Federal corresponde al Tribunal Superior de Justicia del Distrito Federal y demás órganos judiciales que esta ley señale, con base en lo que establece la Constitución Política de los Estados Unidos Mexicanos, el Estatuto de Gobierno del Distrito Federal y demás ordenamientos legales aplicables (Código Penal, leyes locales, etcétera).
+
+Ahora bien, cuando se cometa delitos no previstos por el Código Penal Federal, pero sí en una ley especial o en un tratado internacional de observancia obligatoria en México, estos delitos se consideran como especiales, de los cuales el sujeto pasivo (imputado) será procesado conforme al Código Nacional de Procedimientos Penales, cuya autoridad competente será la Procuraduría General de la Republica.
+
+Asimismo, cuando se cometa un delito no previsto por el Código Penal para el Distrito Federal o una misma materia aparezca regulada por diversas disposiciones locales del Distrito Federal, la autoridad competente será la Procuraduría General de Justicia del Distrito Federal.
+
+Competencia de los órganos jurisdiccionales
+
+La competencia de los órganos jurisdiccionales va en función del tipo del delito. En virtud de lo anterior, distinguiremos entre fuero común y fuero federal y así arribar al órgano jurisdiccional competente, esto con la intención de conocer del juicio de amparo directo. Por ello, gráficamente la competencia se encuentra de la siguiente manera:
+
+| | Órganos jurisdiccionales  | ||
+|---|---|---|---|
+|Fuero común	|Fuero federal	|Instancia procesal|	Etapa del proceso penal|
+|Juez de control o tribunal de enjuiciamiento | Juez de control o tribunal de enjuiciamiento, adscritos al Juzgado de Distrito | Primera instancia|Juicio|
+|Sala Penal del Tribunal Superior de Justicia del Distrito Federal	| Tribunal Unitario de Circuito | Segunda instancia | Apelación | 
+|Tribunal Colegiado de Circuito |	Tribunal Colegiado de Circuito	| Juicio de amparo|Amparo directo|
+
+
+Como podemos advertir, **el Tribunal Colegiado de Circuito es el órgano jurisdiccional competente para conocer el juicio de amparo directo**, pues así lo establece el artículo 37 de la Ley Orgánica del Poder Judicial de la Federación, afirmación que se ve robustecida con el artículo 29, fracción I, de la ley en cita, que establece que los tribunales unitarios de circuito no son competentes para conocer de los juicios de amparo promovidos contra sentencias definitivas.
+
+Los conceptos de garantía individual en el amparo directo
+
+A raíz de las reformas, con fechas 6 y 10 de junio de 2011, el juicio de amparo se convirtió en una institución protectora de los derechos fundamentales, al proceder contra violaciones a los derechos humanos plasmados en los tratados internacionales de los que el Estado mexicano sea parte. Con estas reformas se dejó de utilizar, constitucionalmente hablando, el término de garantías individuales y fue sustituido por derechos humanos.
+
+En este sentido, a partir de la reforma constitucional del 10 de junio de 2011, se reconoció que en México todas las personas gozarán de los derechos humanos reconocidos en la Constitución y en los tratados internacionales de los que el Estado mexicano sea parte, así como de las garantías para su protección, cuyo ejercicio no podrá restringirse ni suspenderse, salvo en los casos y bajo las condiciones que la Carta Maga establezca. De aquí que sea necesario distinguir los conceptos de garantía, derecho humano y derecho fundamental.
+
+ Pulse en cada una de las pestañas para ver la información correspondiente.
+ 
+- GARANTIA: Siguiendo la tesis de “garantías del gobernado”, de Ignacio Burgoa Orihuela (2011: 161), podemos sostener que el concepto de garantía individual se refiere a la obligación de todas las autoridades de someter sus actos al derecho. Por lo que las garantías individuales “son medios jurídicos de protección, defensa o salvaguarda de los derechos del hombre en primer término, por lo que estos derechos son jurídicamente resguardados y tutelados por la constitución y el sistema jurídico mexicano (Burgoa Orihuela; 2011; 162).” Para Miguel Carbonell, “una garantía es un medio para garantizar algo, hacerlo eficaz, o devolverlo a su estado original en caso de que haya sido tergiversado, violado o no respetado” (2006: 6). Sigue diciendo este autor que una garantía constitucional “tiene por objeto reparar las violaciones que se hayan producido a los principios, valores o disposiciones fundamentales”. Una definición más completa es la de Luigi Ferrajoli, quien sostiene que “las garantías, en una primera acepción, serían las obligaciones que derivan de los derechos, que se dividen en positivas y negativas. Las positivas generan obligaciones de actuar positivamente para cumplir con la expectativa que derive de algún derecho. Las negativas obligarían a abstenciones por parte del Estado, y de los particulares en el respeto de algún derecho fundamental” (Ferrajoli, 2002: 39).
+
+- DERECHOS HUMANOS: Los derechos humanos son un conjunto de facultades e instituciones que en cada momento histórico concretan las exigencias de dignidad, libertad y la igualdad humana, las cuales deben ser reconocidas positivamente por los ordenamientos jurídicos a nivel nacional e internacional (Carbonell, 2006: 9).
+
+- DERECHOS FUNDAMENTALES: Los derechos fundamentales son los derechos humanos garantizados por el ordenamiento jurídico positivo, en la mayor parte de los casos en su normativa constitucional, y que suelen gozar de una tutela reforzada (Carbonell, 2006: 9).
+
+La anterior distinción es de gran importancia para su formación profesional y representará, en muchas ocasiones, el éxito o fracaso de su demanda de amparo. Recordemos que el juicio de amparo tiene el objetivo de realizar tres tipos de controles: constitucionalidad (derechos fundamentales), legalidad (derechos fundamentales y humanos) y convencionalidad (derechos humanos).
+
+En este sentido, los derechos fundamentales se encuentran contemplados en la Constitución Política de los Estados Unidos Mexicanos; mientras que, los derechos humanos, en los tratados e instrumentos internacionales de los que México sea parte.
+
+Conceptos de violación en el amparo directo
+
+Para estudiar el tema de conceptos de violación nos apoyaremos en las diversas tesis y jurisprudencias del Semanario Judicial de la Federación. En este sentido, para cumplir con nuestro objetivo se hace necesario establecer dos premisas: naturaleza jurídica del juicio de amparo directo y argumentos utilizados en la elaboración de los conceptos de violación.
+
+Veamos cada una de ellas:
+
+Naturaleza jurídica del juicio de amparo directo
+-
+Las naturaleza jurídica del juicio de amparo directo es la de ser un recurso extraordinario, que se interpone, única y exclusivamente, contra la sentencia que le recae al recurso de apelación, resolución judicial que es dictada por el tribunal de alzada, es decir, por los tribunales de segunda instancia. Gráficamente, este argumento se encuentra representado de la siguiente manera:
+
+ 
+| Fuero común	| Fuero federal |	Instancia procesal |
+|---|---|---|
+|Sala Penal del Tribunal Superior de Justicia del Distrito Federal| Tribunal Unitario de Circuito|Segunda instancia|
+|Tribunal Colegiado de Circuito	 |Tribunal Colegiado de Circuito |Juicio de amparo directo  |
+
+Los argumentos utilizados en la elaboración de los conceptos de violación
+-
+Debido a las reformas de 2008, que tratan sobre la instauración del sistema de justicia penal acusatorio y oral, así como a las reformas constitucionales de 2011 sobre derechos humanos y el juicio de amparo, podemos sostener que se pueden reclamar tres tipos de conceptos de violación: constitucionalidad, legalidad, y convencionalidad. Estudiemos cada uno de ellos:
+
+ Pulse en cada una de las pestañas para ver la información correspondiente.
+ 
+I. Legalidad
+
+En términos generales, un concepto de violación sobre la ilegalidad de la resolución impugnada se compone de un hecho y un razonamiento con el que se explique la ilegalidad aducida.
+
+De esta forma, el razonamiento se traduce a la mínima necesidad de explicar por qué la resolución recurrida se aparta del derecho (Tesis aislada común, XVII.1o.C.T.28 K [10a.]).
+
+Por ello, se debe:
+
+- Precisar y concretar cuáles son las reglas de la lógica y de la sana crítica que la autoridad responsable dejó de observar en la resolución.
+- Exponer específicamente en sus motivos de disenso, la creencia falsa y/o idea equivocada, así como el error en el razonamiento o la argumentación en que incurrió la responsable en la resolución reclamada, con motivo de la inobservancia a esas reglas, normas o principios lógicos.
+- Establecer la propuesta de solución o conclusión sacada de la conexión entre el hecho y fundamento que considere aplicable.
+
+II. Constitucionalidad
+
+Tradicionalmente, un concepto de violación se definiría como “la relación razonada que el quejoso ha de establecer entre los actos desplegados por las autoridades responsables y los derechos fundamentales que estime violados, demostrando jurídicamente la contravención de éstos por dichos actos, expresando, en el caso, que la ley impugnada en los preceptos citados, conculca sus derechos públicos individuales, por tanto, el concepto de violación debe ser un verdadero silogismo, siendo la premisa mayor los preceptos constitucionales que se estiman infringiditos; la premisa menor, los actos reclamados, y la conclusión la contrariedad entre ambas premisas” (Jurisprudencia común, 172).
+
+Sin embargo, a partir del año 2000, se sostiene que los conceptos de violación son todos los razonamientos que, con tal contenido, aparezcan en la demanda, aunque no estén en el capítulo relativo y no guarden un apego estricto a la forma lógica del silogismo.
+
+Por ello, es “suficiente que en alguna parte de la demanda se exprese con claridad la causa de pedir, señalándose cuál es la lesión o agravio que el quejoso estima le causa la resolución o ley impugnada, y los motivos que originaron ese agravio para que el juez de amparo deba estudiarlo” (Jurisprudencia común, P./J. 68/2000).
+
+III. Convencionalidad
+
+En estos conceptos de violación se utiliza el principio pro persona como criterio de interpretación de derechos humanos. Los argumentos que se contienen en el concepto de violación deben satisfacer cuatro requisitos (Jurisprudencia constitucional, Común, XVII.1o.P.A. J/9 [10a.]).
+
+- Pedir la aplicación del principio relativo o impugnar su falta por la autoridad responsable;
+- Señalar cuál es el derecho humano o fundamental cuya maximización se pretende;
+- Indicar la norma cuya aplicación debe preferirse o la interpretación que resulta más favorable hacia el derecho fundamental; y,
+- Precisar los motivos para preferirlos en lugar de otras normas o interpretaciones posibles.
+
+Como pudo observar, dentro de una demanda de amparo directo, existen y se tienen que elaborar tres tipos de conceptos de violación: constitucionalidad, convencionalidad y legalidad. La importancia de los conceptos de violación radica en el hecho de que, con ellos, la autoridad judicial resolverá en definitiva sobre la situación jurídica de su cliente.
+
+De esta forma, fácticamente el juicio de amparo es el último recurso legal que tiene su cliente. Por lo que, si ya está llevando la defensa de alguien, recuerde que tiene hasta ocho años para interponer el juicio de amparo directo, lo que le da a usted tiempo suficiente para elaborar estos conceptos de violación.
+
+Tribunales que deben resolver el amparo directo
+
+Como ya hemos establecido, el tribunal competente para resolver el Amparo Directo es el “Tribunal Colegiado de Circuito”. Tal y como lo establece el artículo 37 de la Ley Orgánica del Poder Judicial de la Federación.
+
+No importa si se trata de delitos del fuero común o del fuero federal, ya que en ambos casos será el Tribunal Colegiado de Circuito la autoridad jurisdiccional para resolver el amparo directo en materia penal. De hecho, el artículo 29, fracción I, de la Ley Orgánica del Poder Judicial de la Federación, establece que los tribunales unitarios de circuito no son competentes para conocer de los juicios de amparo promovidos contra sentencias definitivas.
+
+Resoluciones que sólo pueden impugnarse con el amparo directo
+
+De conformidad con el artículo 170 de la Ley de Amparo, el juicio de amparo directo en materia penal, procede, única y exclusivamente, contra sentencias definitivas que ponen fin al procedimiento, es decir, contra sentencias definitivas dictadas por el juez de control, tratándose de un procedimiento abreviado, o por el tribunal de enjuiciamiento, en los supuestos de procedimientos ordinarios.
+
+Para que proceda el Juicio de Amparo Directo es necesario que, previamente, se hayan agotado los recursos ordinarios que se establezcan en el Código Nacional de Procedimientos Penales. Cabe precisar, que cuando se afirma que deben agotarse todos los recursos ordinarios para la procedencia del Juicio de Amparo Directo, estamos haciendo alusión, al principio de definitividad, que gráficamente se ve representado de la siguiente manera:
+
+ ![M](img_flecha01.png)
+
+ 
+Ahora que sabemos que el amparo directo es un medio de control de la constitucionalidad, legalidad, y convencionalidad, tenemos que profundizar lo relativo al control de la legalidad, ya que en su vida profesional se va a encontrar que si la autoridad jurisdiccional de primera instancia viola normas del procedimiento, puede traer como consecuencia la libertad del imputado.
+
+ 
+Revise el caso...
+Imagínese que a una persona que cometió el delito de robo, pero las cadenas de custodia no se encuentran ajustadas conforme lo establece el protocolo de actuación de la procuraduría, que del mismo formato se advierta que no se utilizó ningún perito (por ejemplo, en materia de dactiloscopia); que, aunado a esto, no exista evidencia física porque “fue devuelto” a su titular y, que a pesar de ello, tanto el juez de control, como el tribunal de enjuiciamiento se negaron a calificar la ilicitud de la cadena de custodia y de la evidencia física, la única consecuencia, sería la libertad de la persona, que, pese haber cometido el delito, no será castigada.
+
+Sin embargo, suponiendo que a su cliente se le impute el delito de robo, sin que lo hubiera cometido, entonces, debe acudir al artículo 173 de la Ley de Amparo, ya que en este precepto legal se establecen los supuestos por los cuales se considerarán violadas las leyes del procedimiento con trascendencia a las defensas de su cliente (quejoso).
+
+ Pulse en Supuestos para que revise algunos de los supuestos que puede invocar, conforme al artículo 173 de la Ley de Amparo.
+ 
+Los efectos del amparo directo
+
+En términos generales, de acuerdo con el artículo 77 de la Ley de Amparo, podemos sostener que los efectos de la concesión del amparo serán:
+
+ 
+La Ley establece…
+“I. Cuando el acto reclamado sea de carácter positivo se restituirá al quejoso en el pleno goce del derecho violado, restableciendo las cosas al estado que guardaban antes de la violación; y
+
+II. Cuando el acto reclamado sea de carácter negativo o implique una omisión, obligar a la autoridad responsable a respetar el derecho de que se trate y a cumplir lo que el mismo exija”.
+ 
+Es importante señalar que el juzgador deberá determinar con precisión cuáles son los efectos de la sentencia de amparo que concede el amparo y protección de la justicia federal, especificado en el inciso II y, considerando las medidas que las autoridades o particulares deban adoptar para asegurar su estricto cumplimiento y la restitución del quejoso en el goce del derecho.
+
+Así, por ejemplo, si uno de los conceptos de violación está relacionado con el debido proceso, se revocará la sentencia definitiva dictada en contra del sentenciado y, muy probablemente, lo dejen en inmediata libertad, tal y como sucedió con el caso de Florence Cassez.
+
+Ahora bien, en el supuesto de que se ordene la modificación, el juez de control, o tribunal de enjuiciamiento quedará en plenitud de funciones emita uno nuevo, y si usted considera que esta nueva sentencia definitiva sigue causándole perjuicio a los derechos humanos, a sus derechos fundamentales, entonces, estará en condiciones de volver a interponer el juicio de amparo directo.
+
+ Pulse en el botón para ver las Fuentes de consulta.
+
+ Fuentes de consulta
