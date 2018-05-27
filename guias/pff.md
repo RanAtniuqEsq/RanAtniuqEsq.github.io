@@ -659,3 +659,312 @@ Por último, es de suma importancia señalar, que conforme al artículo 484 del 
  Pulse en el botón para ver las Fuentes de consulta
 
  Fuentes de consulta
+
+
+### La Apelación
+
+Introducción
+
+Para pensar estratégicamente en la defensa de un asunto penal es necesario saber con anticipación cuáles son las resoluciones que dicta el tribunal ad quem, ya que de eso dependerá su actuar profesional. Aunado a lo anterior, es recomendable que antes de interponer un medio de impugnación o recurso, sepa con anticipación dos cuestiones centrales: la competencia y las cuestiones incidentales que se pueden promover dentro de la segunda instancia.
+
+En el sistema acusatorio y oral mexicano, todas las cuestiones accesorias íntimamente relacionadas con el asunto principal se pueden agrupar académicamente en la figura de procedimientos diversos. Esto es así debido a que el actual sistema de justicia penal tiene la finalidad de que la justicia sea pronta y expedita. De tal suerte, que basta con promover ante el órgano jurisdiccional un procedimiento diverso para que se fije una audiencia, en la cual se va a plantear, debatir y resolver las cuestiones accesorias expuestas por las partes en un solo acto procesal, es decir, en una misma audiencia. 
+  
+Cabe precisar que en el actual sistema siguen existiendo cuestiones incidentales, de las cuales es necesario resolver a fin de que no se violen los derechos humanos, ni fundamentales de las partes. Cuestiones que hemos reunido y clasificado como procedimientos diversos.
+
+Tenido como marco este contexto, en esta unidad profundizaremos en cuatro temas importantes para su formación profesional. Primero, determinaremos si el Código Nacional de Procedimientos Penales prevé la figura procesal de  “incidente” o, en su caso, determinaremos cuál es el procedimiento aplicable para las resoluciones de cuestiones incidentales, obviamente, todo fundado en nuestro código nacional adjetivo penal.
+
+Una vez hecho lo anterior, podemos determinar cuáles son las sentencias que se pueden dictar en Segunda Instancia. De esta forma, esteremos en condiciones de establecer quiénes tienen legitimación procesal para impugnar las sentencias de segunda instancia. La importancia de este tema radica en el hecho de que nos encontramos en una etapa de transición del sistema tradicional mixto a un sistema acusatorio y oral. Si somos capaces de saber si nuestro cliente puede interponer medios de impugnación o recursos extraordinarios en segunda instancia, entonces, puedo asegurarles que su prestigio profesional se incrementará.
+
+Por último, estudiaremos la situación del Ministerio Público en la segunda instancia en el sistema acusatorio y oral, recordemos que tenemos nuevas reglas procesales y, por ello, la obligación de saberlas utilizar para poder alcanzar el objetivo que establece el artículo 2 del  Código Nacional de Procedimientos Penales: “esclarecer los hechos, proteger al inocente, procurar que el culpable no quede impune y que se repare el daño… en un marco de respeto a los derechos humanos reconocidos en la Constitución y en los tratados Internacionales de los que el Estado mexicano sea parte”…
+
+ 
+
+
+ 
+
+(1) Tribunal ad quem
+
+ 
+
+  Actividad Introductoria
+El recurso de apelación
+Opción múltiple
+
+Pulse sobre el botón Iniciar para realizar su actividad introductoria.
+
+ 
+Objetivo
+A lo largo de esta unidad, usted: 
+
+Distinguirá los procedimientos diversos que se pueden interponer en segunda instancia para dar solución a cuestiones accesorias de manera pronta y expedita.
+
+Analizará las resoluciones que se emiten dentro de la segunda instancia y sus alcances legales, para decidir si interponer un recurso o medio de impugnación y elaborar un recurso de apelación.
+
+Temario
+Unidad 3. Las Resoluciones del Tribunal Ad Quem o Segunda Instancia
+
+3.1. Legislación aplicable para los incidentes que surgen en la tramitación de la segunda instancia y su impugnación 
+3.2. Las sentencias de segunda instancia 
+3.3. Personas que pueden impugnar las sentencias de segunda instancia 
+3.4. Situación del Ministerio Público en la segunda instancia
+
+
+Desarrollo de contenido
+Legislación aplicable para los incidentes que surgen en la tramitación de la segunda instancia y su impugnación
+
+La figura jurídica de “incidente” no se encuentra prevista por el Código Nacional de Procedimientos Penales, debido a que el actual sistema de justicia penal es acusatorio y oral. Ésta responde a las necesidades del sistema tradicional mixto, donde generalmente tienen una tramitación separada del proceso con el que están vinculados, y a la resolución que le recaía se le denominaba sentencia interlocutoria.
+
+ 
+Definamos...
+Tradicionalmente se ha definido al incidente como “una cuestión accesoria que ingresa al juicio y que, teniendo íntima relación con el asunto principal, reclama, no obstante, una resolución destacada” (Hernández, 2006: 358).
+
+ 
+Cabe hacer mención, que en el actual sistema siguen existiendo cuestiones incidentales, las cuales es necesario resolver a fin de que no se violen los derechos humanos ni fundamentales de las partes. En el sistema acusatorio y oral mexicano, todas las cuestiones accesorias íntimamente relacionadas con el asunto principal se pueden agrupar académicamente en la figura de procedimientos diversos.
+
+Es por ello que, a fin de evitar confusiones, vamos a diferenciar entre los siguientes procedimientos: ordinario, abreviado y diverso. Es necesario precisar que esta clasificación es para efectos académicos, a fin de comprender el sistema acusatorio y oral mexicano.
+
+ Pulse sobre las áreas que se marcan como sensibles en la imagen para que se despliegue la información correspondiente.
+
+
+Procedimiento ordinario
+-
+ 
+
+Resuelve cuestiones propias de las etapas de investigación, intermedia y juicio. Contiene, por lo menos, las siguientes audiencias: ejercicio de la acción penal y audiencia inicial, cierre de la investigación, formulación de acusación, ofrecimiento, depuración y admisión de acuerdos probatorios, audiencia de debate de juicio oral. 
+ 
+Procedimiento abreviado
+-
+ 
+
+Es una forma de terminación anticipada del proceso penal, que consiste en el reconocimiento de la participación del imputado en la comisión del hecho delictivo y, derivado de ello, el sujeto activo del delito puede obtener una reducción en su sanción. Para su procedencia, es necesario que el Ministerio Público lo solicite después de que se dicte el auto de vinculación a proceso y hasta antes de la emisión del auto de apertura a juicio oral.
+
+
+Procedimientos diversos
+-
+ 
+
+Son aquellas cuestiones que ocurren dentro las diferentes etapas del proceso penal que deben resolverse de inmediato. Al decir cuestiones, se hace referencia a diferentes supuestos, que sin ser parte esencial de la etapa de investigación, intermedia o juicio, o en su caso, segunda instancia, tienen que resolverse, a efectos de evitar violaciones a los derechos fundamentales y humanos, principalmente de seguridad y legalidad jurídicas. Asimismo, dentro de la segunda instancia, se pueden identificar las cuestiones incidentales: excusas y recusaciones, garantía de defensa técnica, nulidad de notificaciones, reconocimiento de inocencia y anulación de sentencia.
+
+Como pudo darse cuenta, el procedimiento ordinario y abreviado corresponde a la primera instancia, en virtud de que se desahogan ante el juez de control o, en su caso, ante el tribunal de enjuiciamiento, a diferencia de los procedimientos diversos, ya que estos últimos se pueden ejercitar tanto en primera como en segunda instancia. 
+
+Los procedimientos diversos que pueden sustanciarse ante el tribunal ad quem, son: excusas, recusaciones y nulidad de notificaciones, los cuales estudiaremos a continuación.
+
+Excusas y recusaciones
+
+Se puede iniciar en la segunda instancia cuando existe algún impedimento por parte de los magistrados para seguir conociendo del asunto. Es por ello que si un magistrado advierte que se actualiza alguna de las causas de impedimento, se declarará separado del asunto sin audiencia de las partes y remitirá los registros al órgano jurisdiccional competente. Sin embargo, cuando el magistrado no se excuse a pesar de tener algún impedimento, procederá la recusación.
+
+
+ 
+
+(2) Excusas y recusaciones
+
+Las causas de impedimento de los magistrados para seguir conociendo del asunto se encuentran establecidas en el artículo 37 del Código Nacional de Procedimientos Penales, que a la letra reza:
+
+ Pulse en Siguiente para navegar por los contenidos. Puede regresar a la información precedente pulsando en Anterior.
+ 
+Las causas de impedimento de los jueces y magistrados son las siguientes.
+
+“I. Haber intervenido en el mismo procedimiento como Ministerio Público, Defensor, Asesor jurídico, denunciante o querellante, o haber ejercido la acción penal particular; haber actuado como perito, consultor técnico, testigo o tener interés directo en el procedimiento” (CNPC, art. 37).
+
+“II. Ser cónyuge, concubina o concubinario, conviviente, tener parentesco en línea recta sin limitación de grado, en línea colateral por consanguinidad y por afinidad hasta el segundo grado con alguno de los interesados, o que éste cohabite o haya cohabitado con alguno de ellos” (CNPC, art. 37).
+
+“III. Ser o haber sido tutor, curador, haber estado bajo tutela o curatela de alguna de las partes, ser o haber sido administrador de sus bienes por cualquier título” (CNPC, art. 37).
+
+“IV. Cuando él, su cónyuge, concubina, concubinario, conviviente, o cualquiera de sus parientes en los grados que expresa la fracción II de este artículo, tenga un juicio pendiente iniciado con anterioridad con alguna de las partes” (CNPC, art. 37).
+
+“V. Cuando él, su cónyuge, concubina, concubinario, conviviente, o cualquiera de sus parientes en los grados que expresa la fracción II de este artículo, sea acreedor, deudor, arrendador, arrendatario o fiador de alguna de las partes, o tengan alguna sociedad con éstos” (CNPC, art. 37).
+
+“VI. Cuando antes de comenzar el procedimiento, o durante éste, haya presentado él, su cónyuge, concubina, concubinario, conviviente o cualquiera de sus parientes en los grados que expresa la fracción II de este artículo, querella, denuncia, demanda o haya entablado cualquier acción legal en contra de alguna de las partes, o cuando antes de comenzar el procedimiento hubiera sido denunciado o acusado por alguna de ellas”. (CNPC, art. 37).
+
+“VII. Haber dado consejos o manifestado extrajudicialmente su opinión sobre el procedimiento o haber hecho promesas que impliquen parcialidad a favor o en contra de alguna de las partes”. (CNPC, art. 37).
+
+
+“VIII. Cuando él, su cónyuge, concubina, concubinario, conviviente o cualquiera de sus parientes en los grados que expresa la fracción II de este artículo, hubiera recibido o reciba beneficios de alguna de las partes o si, después de iniciado el procedimiento, hubiera recibido presentes o dádivas independientemente de cuál haya sido su valor” (CNPC, art. 37).
+
+
+Nulidad de notificaciones
+
+Si bien los artículos 54 y 471, párrafos tercero y quinto respectivamente, del Código Nacional de Procedimientos Penales establecen la obligación de las partes de señalar domicilio para oír y recibir notificaciones, eso no significa que hayan sido notificados adecuadamente. Es decir, si el acusado interpone el recurso de apelación y no se ha notificado personalmente a la víctima u ofendido, este se encontrará en desventaja procesal, ya que sólo tiene tres días para manifestar lo que considere conducente respecto de los agravios formulados por el acusado.
+
+No obstante, debe recordar las reglas en caso de ausencia de las partes en las audiencias, establecidas en el artículo 57 del Código Nacional de Procedimientos Penales, esto es:
+
+ 
+La Ley establece…
+En el caso de que estuvieren asignados varios defensores o varios ministerios públicos, la presencia de cualquiera de ellos bastará para celebrar la audiencia respectiva.
+Si el defensor o el Ministerio Público no comparece a la audiencia, o se ausenta de ésta sin causa justificada, serán sustituidos. Lo que significa que el sustituto podrá solicitar al órgano jurisdiccional que se aplace el inicio de la audiencia o la suspenda por un plazo que no podrá exceder de diez días para la adecuada preparación de su intervención.
+Si la víctima u ofendido no concurren, o se retiran de la audiencia, ésta continuará sin su presencia, sin perjuicio de que pueda ser citado a comparecer en calidad de testigo.
+Por extensión, si el acusado no se encuentra en la audiencia, la misma no podrá celebrarse (Cfr. CNPC, art. 57).  
+ 
+
+ 
+
+(3) Audiencia
+
+ 
+De esta manera, se podrá pedir al tribunal ad quem que resuelva en una audiencia especial sobre la legal o ilegal notificación hecha al acusado, víctima u ofendido, ya que el día y la fecha de la notificación de la sentencia definitiva de primera instancia es de suma importancia, pues de eso dependerá los días que tiene la víctima u ofendido para manifestarse respecto de los agravios o, en su caso, el tiempo que tiene el acusado para formular sus agravios.
+
+ 
+¡Importante!
+Este procedimiento diverso no se encuentra establecido como tal en el Código Nacional de Procedimientos Penales pero, dada la práctica jurídica, se ha advertido la presencia de éste.
+
+Otros
+
+Existen procedimientos diversos que no se encuentran contemplados como tales y pueden sustanciarse en la segunda instancia. Su tramitación será la misma que se tiene para la celebración de las audiencias:
+
+Individualización de las partes.
+Objeto de la audiencia.
+Formulación de la pretensión de la parte promovente.
+Contestación a la pretensión.
+Resolución de la pretensión por parte del órgano jurisdiccional.
+Estos procedimientos diversos pueden ser: la falta de personalidad o la prescripción, entre otros. 
+Veamos qué nos dice al respecto la interpretación de la Ley.
+
+Interpretación de la Ley
+Falta de personalidad:
+-
+Está relacionada con el hecho de que cuando la parte promovente sea un depositario judicial  no tiene legitimación procesal para interponer un recurso o medio de impugnación o, en su caso, para solicitar una pretensión ante el órgano jurisdiccional (tesis aislada penal, CV).
+
+ Interpretación de la Ley
+Prescripción:
+-
+Es procedente si se admite el recurso de apelación en ambos efectos contra la sentencia condenatoria que recae en un proceso y éste se encuentra en poder del tribunal de segunda instancia, el juez de primera carece ya de jurisdicción para declarar prescrita la acción penal, y el incidente respectivo debe promoverse ante el tribunal de alzada (tesis aislada penal, LIV).
+
+Es importante aclarar que no existen limitaciones para iniciar un procedimiento diverso por alguna causa que usted considere puede ejercitarse en la segunda instancia.
+
+Las Sentencias de Segunda Instancia
+
+Como hemos advertido, el tribunal ad quem es competente para dictar sentencias en procedimientos diversos sustanciados ante este órgano jurisdiccional. No obstante, también es competente para dictar sentencias en tres supuestos: apelación, reconocimiento de inocencia y anulación de sentencia. Veamos en qué consisten.
+
+ Pulse sobre los recuadros para desplegar la información.
+
+ Apelación
+-
+
+Es un recurso ordinario que se interpone contra las resoluciones judiciales emitidas por el juez de control o, en su caso, por el tribunal de enjuiciamiento. Se encuentra regulado de los artículos 467 al 484 del Código Nacional de Procedimientos Penales.
+
+![M]("img_cuadro.png")
+
+¡Importante!
+En cualquiera de los dos supuestos, la sentencia dictada en el recurso de apelación “confirmará, modificará o revocará la resolución impugnada, o bien ordenará la reposición del acto que dio lugar a la misma” o, en su caso, “requerirá el auto de apertura al juez de control, para que en su caso se incluya el medio o medios de prueba indebidamente excluidos”(CNPP, art. 479).
+
+Reconcomiendo de inocencia
+-
+
+Como afirma Ramiro Rodríguez Pérez, “el reconocimiento de inocencia debe ser entendido como un medio extraordinario de impugnación, y no como un recurso ordinario en tanto que procede una vez concluido el proceso penal por sentencia ejecutoria; mientras que tampoco puede verse como un juicio autónomo de anulación, básicamente por dos razones. En primer lugar, procede ante el superior del juez ante el que se hubiera seguido el proceso penal… y, en segundo lugar, limita el tipo de pruebas que se pueden ofrecer…” (Rodríguez Pérez: 2010, 272).
+
+En el sistema acusatorio y oral, el reconocimiento de inocencia es un medio extraordinario de impugnación que extingue la acción penal. Se encuentra prevista en el artículo 486 del Código Nacional de Procedimientos Penales. Es procedente cuando después de dictada la sentencia aparezcan pruebas de las que se desprenda, en forma plena, que no existió el delito por el que se dictó la condena o que, existiendo éste, el sentenciado no participó en su comisión, o bien cuando se desacrediten formalmente, en sentencia irrevocable, las pruebas en las que se fundó la condena.
+
+
+Anulación de sentencia
+-
+
+Es un medio extraordinario de impugnación que extingue la acción penal. Se encuentra prevista por el artículo 487 del Código Nacional de Procedimientos Penales. Procede, únicamente, en dos supuestos: 
+
+La Ley establece…
+“I.     Cuando el sentenciado hubiere sido condenado por los mismos hechos en juicios diversos, en cuyo caso se anulará la segunda sentencia, y
+
+II.    Cuando una ley se derogue, o se modifique el tipo penal o en su caso, la pena por la que se dictó sentencia o la sanción impuesta, procediendo a aplicar la más favorable al sentenciado”. (CNPC, art. 57).
+
+
+ Trámite del Reconocimiento de Inocencia y Anulación de Sentencia
+
+Como hemos estudiado hasta este momento, tanto el Reconocimiento de inocencia como la anulación de sentencia, se consideran como medios extraordinarios de impugnación, ya que están encaminadas a extinguir la acción penal, con la finalidad de demostrar que no existió el delito, que el sentenciado no participó en la comisión del hecho delictivo, o en su caso, porque la sentencia condeno por hechos que fueron materia de otro u otros juicios, y por último porque el tipo penal se modifique o derogue en favor del sentenciado. En cualquiera de los medios de impugnación se presupone la existencia de una sentencia condenatoria.
+
+De aquí, que tengamos la necesidad de saber cuál es el trámite correspondiente para cada medio extraordinario de impugnación. En este sentido, para la solicitud de reconocimiento de inocencia y anulación de sentencias se tendrá que:
+
+ Pulse en las áreas que se marcan como sensibles para desplegar la información.
+ 
+
+1. La solicitud de reconocimiento de inocencia y anulación de sentencia se sustanciará ante el tribunal ad quem. Correspondiéndole a este órgano jurisdiccional pedir inmediatamente los registros del proceso al juzgado de origen o a la oficina en que se encuentren y, en caso de que el promovente haya protestado exhibir las pruebas, se le otorgará un plazo no mayor de diez días para su recepción.
+
+
+2. Una vez que el tribunal de alzada cuente con los registros y, en su caso las pruebas del promovente, “citará al Ministerio Público, al solicitante y a su defensor, así como a la víctima u ofendido y a su asesor jurídico, a una audiencia que se celebrará dentro de los cinco días siguientes al recibo de los registros y de las pruebas”. (CNPP, art. 489).
+
+
+3. En la audiencia se desahogarán las pruebas ofrecidas por el promovente y se escuchará a éste y al Ministerio Público, para que cada uno formule sus alegatos.
+
+4. Posteriormente, “dentro de los cinco días siguientes a la formulación de los alegatos y a la conclusión de la audiencia, el tribunal de alzada dictará sentencia” (CNPP, art. 489).
+
+NO: Nueva sentencia
+
+SI:
+5. “Si se declara fundada la solicitud de reconocimiento de inocencia o modificación de sentencia, el tribunal de alzada resolverá anular la sentencia impugnada y dará aviso al tribunal de enjuiciamiento que condenó, para que haga la anotación correspondiente en la sentencia y publicará una síntesis del fallo en los estrados del tribunal; asimismo, informará de esta resolución a la autoridad competente encargada de la ejecución penal, para que en su caso sin más trámite ponga en libertad absoluta al sentenciado y haga cesar todos los efectos de la sentencia anulada, o bien registre la modificación de la pena comprendida en la nueva sentencia” (CNPP, art. 489).
+
+
+Personas que pueden impugnar las sentencias de segunda instancia
+
+Hablar sobre las personas que pueden impugnar las sentencias de segunda instancia es referirse a quien tiene legitimación procesal para impugnarlas. Es decir, quiénes son los sujetos procesales (partes) que pueden interponer la apelación, el reconcomiendo de inocencia, anulación de sentencia, o, en su caso, iniciar procedimientos diversos, por ejemplo, la de excusa, recusa, nulidad de notificaciones, entre otros.
+
+Derivado de lo anterior, resulta de suma importancia saber que la legitimación procesal se refiere a los sujetos procesales que tienen derecho subjetivo a recurrir (impugnar) las resoluciones judiciales, actos u omisiones procesales o, en su caso, a interponer los medios de impugnación y recursos extraordinarios aplicables.
+
+ Posicione el cursor sobre las áreas que se marcan como sensibles en la imagen para que se despliegue la información correspondiente.
+
+ 
+DERECHO SUBJETIVO
+
+
+
+De interponer el recurso de apelación
+
+ 
+
+Le corresponde únicamente a quien le sea expresamente otorgado y pueda resultar afectado por la resolución. Dando lugar, por una parte, a la víctima u ofendido, por propio derecho, o por medio de su asesor jurídico o del Ministerio Público y, por otra, al imputado, por propio derecho o por medio de su defensor.
+
+
+De interponer el procedimiento diverso de excusa, recusa, nulidad de notificaciones, entre otros
+
+ 
+
+Le corresponde a quien resulte afectado por la resolución o competencia del órgano jurisdiccional. Dando lugar, por una parte, a la víctima u ofendido, por propio derecho, o por medio de su asesor jurídico, o del Ministerio Público y, por otra, al imputado, por propio derecho o por medio de su defensor.
+
+
+
+De interponer el reconocimiento de inocencia
+
+ 
+
+Le corresponde al sentenciado o a sus herederos. Para ello, acudirá al tribunal de alzada que fuere competente para conocer del recurso de apelación, para exponerle detalladamente por escrito la causa en que funda su petición y acompañarán a su solicitud las pruebas que correspondan u ofrecerá exhibirlas en la audiencia respectiva.
+
+
+ 
+Como sostiene Rodríguez Pérez, el objetivo del reconocimiento de inocencia “es fundamentalmente la reivindicación ante la sociedad, devolviendo al sentenciado y a su familia el prestigio y buen nombre del que injustamente se les privó”(Rodríguez Pérez: 2010, 279). De aquí, que los herederos puedan iniciar con el reconocimiento de inocencia.
+
+Conforme al artículo 488 del Código Nacional de Procedimientos Penales, el  derecho subjetivo de interponer la anulación de sentencia lo puede interponer el sentenciado que se crea con derecho a obtener la anulación de la sentencia.
+
+Ahora bien, en los casos de sentencias de apelación, de procedimientos diversos, de reconocimiento de inocencia, y de anulación de sentencia, le corresponde a quien resulta afectado por la resolución, pudiendo ser la víctima u ofendido, por propio derecho,por medio de su asesor jurídico o del Ministerio Público y, por otra, al imputado, por propio derecho, o por medio de su defensor.
+
+
+Situación del Ministerio Público en la segunda instancia
+
+La situación del Ministerio Público ha cambiado debido a las reformas constitucionales en materia de justicia penal, ya que se han establecido nuevas normas en materia de investigación, el procesamiento y la sanción de los delitos. Lo cual se ve reflejado en el artículo 105 del Código Nacional de Procedimientos Penales, ya que en este precepto legal se establece quiénes tienen la calidad de “parte”.
+
+Luego entonces, debemos preguntarnos ¿qué implica tener la calidad de parte? La respuesta es simple: tener legitimación procesal para ejercer acciones procesales e interponer recursos y medios de impugnación que se consideren convenientes.
+
+En este sentido, son partes dentro del proceso penal el imputado y su defensor, el Ministerio Público, la víctima u ofendido y su asesor jurídico.
+
+Pero esta información no es suficiente para entender la situación actual del Ministerio Público. Para ello, debemos acudir al artículo 100 del Código Nacional de Procedimientos Penales, esto es, todos aquellos actos ejecutados por el Ministerio Público, que se hagan con inobservancia a las formalidades del proceso penal, serán considerados como convalidados, danto lugar a los siguientes supuestos:
+
+ 
+La Ley establece…
+“I. Las partes hayan aceptado, expresa o tácitamente, los efectos del acto.
+II. Ninguna de las partes hayan solicitado su saneamiento mientras se realiza el acto, y
+III. Dentro de las veinticuatro horas siguientes de haberse realizado el acto, la parte que no hubiere estado presente o participado en él no solicita su saneamiento.
+
+También quedarán convalidados los defectos de carácter procesal que no afecten derechos fundamentales del imputado, cuando éste o su defensor no hayan solicitado su saneamiento dentro de las veinticuatro horas después de advertirlo” (CNPC, art. 100).  
+ 
+Asimismo, debemos acudir al artículo 109, fracción XXI, del Código Nacional de Procedimientos Penales, que establece que la víctima u ofendido tiene derecho a impugnar por sí o por medio de su representante, las omisiones o negligencia que cometa el Ministerio Público en el desempeño de sus funciones de investigación y, en general, de sus obligaciones legales. Al relacionarlo con el artículo 131, podemos concluir dos puntos:
+
+
+• Es un derecho de la víctima, ofendido u asesor jurídico el interponer en tiempo y forma los recursos, ejercitar las acciones procesales correspondientes. 
+• El Ministerio Público se encuentra legitimado procesalmente para interponer  en tiempo y forma los recursos y ejercitar las acciones procesales correspondientes.
+El Ministerio Público no tiene el monopolio del ejercicio de la acción penal, y a la víctima u ofendido se les reconoce la calidad de parte, por lo que todos, en conjunto, contribuyen directamente en el resultado positivo y negativo, es decir, depende de estas partes obtener una sentencia absolutoria o condenatoria.
+
+ 
+Para saber más…
+Para profundizar más en el artículo 131, consulte el Código Nacional de Procedimientos Penales.
+
+ 
+ Pulse en el botón para ver las Fuentes de consulta.
+
+ Fuentes de consulta
+
