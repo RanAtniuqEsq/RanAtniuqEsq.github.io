@@ -842,7 +842,7 @@ Como hemos advertido, el tribunal ad quem es competente para dictar sentencias e
 
 Es un recurso ordinario que se interpone contra las resoluciones judiciales emitidas por el juez de control o, en su caso, por el tribunal de enjuiciamiento. Se encuentra regulado de los artículos 467 al 484 del Código Nacional de Procedimientos Penales.
 
-![M]("img_cuadro.png")
+![M](img_cuadro.png)
 
 ¡Importante!
 En cualquiera de los dos supuestos, la sentencia dictada en el recurso de apelación “confirmará, modificará o revocará la resolución impugnada, o bien ordenará la reposición del acto que dio lugar a la misma” o, en su caso, “requerirá el auto de apertura al juez de control, para que en su caso se incluya el medio o medios de prueba indebidamente excluidos”(CNPP, art. 479).
