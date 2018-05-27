@@ -1075,7 +1075,7 @@ En este sentido, el control de convencionalidad se refiere a los Derechos humano
 
 De esta forma, la jurista e investigadora, Ximena Medellin Urquiaga, al atender la tesis de doble vertiente o dimensiones específicas de Néstor Pedro Sagüés, señala que el principio pro persona tiene dos dimensiones, como veremos a continuación:
 
-![M](2_.PNG) 
+![M](pff/2_.PNG) 
  
 En resumen, podemos afirmar que el amparo es un medio de control de la constitucionalidad, legalidad, y convencionalidad, que protege a las personas frente a normas generales, actos u omisiones por parte de los poderes públicos o de particulares.
 
@@ -1396,47 +1396,47 @@ Veamos a continuación, de manera gráfica, cuando el juicio de amparo se consid
 
 Variable: No ejercicio de la acción penal
 
-![m](1_.png)
+![m](pff/1_.png)
 
 Variable: Reserva de la acción penal
 
-![m](2__.png)
+![m](pff/2__.png)
 
 Variable: Auto de vinculación a proceso
 
-![m](3_.png)
+![m](pff/3_.png)
 
 Variable: Auto que determina las medidas cautelares
 
-![m](4_.png)
+![m](pff/4_.png)
 
 Variable: Criterio de oportunidad
 
-![m](5_.png)
+![m](pff/5_.png)
 
 Variable: Acuerdo reparatorio
 
-![m](6_.png)
+![m](pff/6_.png)
 
 Variable: Actos realizados en la etapa de investigación
 
-![m](7_.png)
+![m](pff/7_.png)
 
 Variable: Actos realizados en la etapa de intermedia
 
-![m](8_.png)
+![m](pff/8_.png)
 
 Variable: Actos realizados en la etapa de juicio
 
-![m](9_.png)
+![m](pff/9_.png)
 
 Variable: Actos realizados en la etapa de ejecución de la sentencia
 
-![m](10_.png)
+![m](pff/10_.png)
 
 Variable: Sentencias definitivas
 
-![m](11_.png)
+![m](pff/11_.png)
  
 Como pudo darse cuenta, si se trata de una sentencia definitiva dictada por el tribunal de alzada, el juicio de amparo es un recurso extraordinario. Cabe precisar que cuando se dice tribunal de alzada se hace referencia a las salas penales del Poder Judicial del Fuero Común, si el delito se encuentra contemplado por el Código Penal para el Distrito Federal o de la entidad federativa, según sea el caso; y si se trata de un delito previsto por el Código Penal Federal, entonces, el tribunal de alzada es el tribunal unitario de circuito del Poder Judicial de la Federación.
 
@@ -1444,7 +1444,7 @@ Por otra parte, el Juicio de Amparo se considerará medio de impugnación extrao
 
  Pulse las áreas que se marcan como sensibles para desplegar la información correspondiente.
 
-![](recu.PNG)
+![m](pff/recu.PNG)
 
 Recurso extraordinario
 
