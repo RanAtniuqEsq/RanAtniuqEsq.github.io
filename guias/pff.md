@@ -561,7 +561,8 @@ Si el Ministerio Público tarda más de 48 horas en judicializar una carpeta de 
 
 Veamos gráficamente el ejemplo:
 
- 
+![m](img_esq_gde.png)
+
  Pulse sobre el esquema para ampliar. Vuelva a pulsar para regresar al tamaño original.
 
  
