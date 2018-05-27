@@ -969,3 +969,1211 @@ Para profundizar más en el artículo 131, consulte el Código Nacional de Proce
 
  Fuentes de consulta
 
+## El Juicio de Amparo como Medio de Impugnación en las Resoluciones de Procedimiento en Materia Penal
+
+Introducción
+Hasta este momento, usted ya cuenta los elementos necesarios para ejercer la profesión de Licenciado en Derecho y, por lo mismo, en esta unidad estudiaremos al amparo como medio de impugnación de las resoluciones judiciales dentro del proceso penal, es decir, los supuestos de procedencia del amparo indirecto que proceden antes de que el Tribunal de Enjuiciamiento dicte sentencia.
+
+En materia de amparo, son dos las reformas constitucionales las que cambiaron su configuración, hasta el grado de hacer necesario la expedición de una nueva Ley de Amparo. Me refiero a las siguientes:
+
+ Pulse en cada uno de los conceptos que aparecen del lado izquierdo para desplegar la información correspondiente.
+
+ 
+Reforma  Constitucional  del 6 de junio  de 2011
+-
+Se amplió la procedencia del amparo respecto de cualquier norma general, al preverse su procedencia por violaciones a los derechos humanos plasmados en los tratados internacionales, firmados y ratificados por el Estado mexicano; se establecieron las figuras del amparo adhesivo, los intereses legítimos individual y colectivo; la adopción de nuevos conceptos en torno a la violación de derechos por omisión de las autoridades; la declaratoria general de inconstitucionalidad cuyos alcances y condiciones se determinarán en la ley reglamentaria; la creación de los plenos de circuito; y una nueva forma de integrar jurisprudencia “por sustitución” (Cfr. SCJN, Reformas constitucionales en materia de amparo y derechos humanos).
+
+Reforma  constitucional  del 11 de junio  de 2011
+-
+
+Instaura el control de convencionalidad en el sistema de justicia, mediante la cual se reconoce a los tratados internacionales como fuentes de los derechos humanos. Se establece el reconocimiento de la progresividad de los derechos humanos con base en la expresión clara del principio pro persona como rector de la interpretación y aplicación de las normas jurídicas, en aquellas que favorezcan y brinden mayor protección a las personas (Cfr. SCJN, Reformas constitucionales en materia de amparo y derechos humanos).
+
+ 
+Derivado de lo anterior, con fecha 2 de abril de 2013 se publica en el Diario Oficial de la Federación la nueva Ley de Amparo, que es reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos. No obstante, para que esta nueva ley pudiera funcionar adecuadamente, fue necesario modificar cinco leyes secundarias:
+
+Ley Orgánica de la Administración Pública Federal
+Ley Orgánica del Congreso General de los Estados Unidos Mexicanos
+Ley Orgánica de la Procuraduría General de la República
+Ley Orgánica del Poder Judicial de la Federación
+Ley Reglamentaria de las fracciones I y II del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos.
+Ahora bien, como hemos afirmado, en esta unidad vamos a estudiar al amparo indirecto como medio de impugnación en el proceso penal que se encuentra en primera instancia, esto es, el amparo indirecto sólo se puede interponer contra actos de autoridad que dicte el Órgano Jurisdiccional en la etapa de investigación, intermedia y juicio.
+
+ 
+  Actividad Introductoria
+El amparo como medio de impugnación.
+Falso o Verdadero
+
+Pulse sobre el botón Iniciar para realizar su actividad introductoria.
+
+ 
+Objetivo
+A lo largo de esta unidad, usted: 
+Analizará el juicio de amparo como medio de control de la constitucionalidad, legalidad y convencionalidad de las resoluciones dentro del procedimiento penal.
+
+Elaborará una demanda de amparo directo considerando los requisitos legales de la Ley de Amparo.
+
+Temario
+Unidad 4. El Juicio de Amparo como Medio de Impugnación en las Resoluciones de Procedimiento en Materia Penal
+
+4.1. Concepto del juicio de amparo en general
+4.2. El juicio de amparo como medio de impugnación para resoluciones en el procedimiento penal
+4.3. Situación de dualidad de posibilidades de escoger la impugnación en el recurso ordinario o en el juicio de amparo.
+4.4. Efectos de las ejecutorias del juicio de amparo
+4.5. De las ejecutorias en el juicio de amparo en el procedimiento penal
+
+Desarrollo de contenido
+Concepto del juicio de amparo en general
+
+Hasta este momento, hemos estudiado que dentro del proceso penal existen diferentes procedimientos: ordinario, abreviado y diversos. Mismos que se ventilan en la primera instancia (juez de control-tribunal de enjuiciamiento), no obstante, existe la posibilidad de que se puedan iniciar procedimientos diversos en primera y segunda instancia.
+
+Asimismo, de acuerdo con el Código Nacional de Procedimientos Penales se reconocen como recursos a la apelación y a la revocación; como medios de impugnación ordinarios, a la queja y a la aclaración; como medios de impugnación extraordinarios, al reconocimiento de inocencia y a la anulación de sentencia.
+
+Ahora sólo nos resta estudiar la Naturaleza Jurídica del Amparo, iniciemos, pues, atendiendo lo que nos señala el artículo 1 de la Ley de Amparo, reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
+
+ 
+La Ley establece…
+La Ley de Amparo en su artículo 1, establece…
+
+“El juicio de amparo tiene por objeto resolver toda controversia que se suscite:
+
+Por normas generales, actos u omisiones de autoridad que violen los derechos humanos reconocidos y las garantías otorgadas para su protección por la Constitución Política de los Estados Unidos Mexicanos, así como por los tratados internacionales de los que el Estado mexicano sea parte;
+Por normas generales, actos u omisiones de la autoridad federal que vulneren o restrinjan la soberanía de los Estados o la esfera de competencias del Distrito Federal, siempre y cuando se violen los derechos humanos reconocidos y las garantías otorgadas para su protección por la Constitución Política de los Estados Unidos Mexicanos; y
+Por normas generales, actos u omisiones de las autoridades de los Estados o del Distrito Federal, que invadan la esfera de competencia de la autoridad federal, siempre y cuando se violen los derechos humanos reconocidos y las garantías otorgadas por la Constitución Política de los Estados Unidos Mexicanos.
+El amparo protege a las personas frente a normas generales, actos u omisiones por parte de los poderes públicos o de particulares”.
+ 
+Como puede advertirse, el amparo es, ante todo, un juicio y, como tal, presentará diferentes etapas procesales. Cabe resaltar que su característica esencial es ser un medio de control sobre la constitucionalidad, legalidad y convencionalidad, de los actos reclamados (normas generales, actos u omisiones de las autoridades) en el juicio respectivo.
+
+En una tesitura similar, se encuentran Ignacio Burgoa Orihuela y Rodolfo Monarque e Iván Novia, quienes sostienen:
+
+ 
+El autor dice...
+
+Rodolfo Monarque e
+Iván Novia
+
+El juicio de amparo es un medio de control de constitucionalidad…
+cuya finalidad será siempre preservar la vigencia del orden constitucional y legal (Monarque y Novia, 2009: 2).
+
+El autor dice...
+
+Ignacio Burgoa Orihuela
+
+El amparo es un juicio, y como tal, comprende dos medios de control: Constitucionalidad y de Legalidad. (Cfr. Burgoa, 2012: 144 y 148).
+
+ 
+
+ 
+Como pudo observar, existe un consenso en aceptar, como ya se ha mencionado, que el amparo es un juicio, cuya característica esencial es ser un medio de control de la constitucionalidad y legalidad.
+
+De acuerdo con la tesis del jurista Ignacio Burgoa Orihuela, el control de constitucionalidad tiene “dos objetivos lógicos y jurídicamente inseparables que integran la teología esencial del juicio de amparo, son: el control de la Constitución y la protección del gobernado frente al poder político” (Burgoa, 2012: 144). En este sentido, el control de la constitucionalidad significa que se coloca a la Constitución por encima de todas las leyes, y, que debido a ello, todas las actuaciones de las distintas autoridades nacionales deben ajustarse estrictamente a las disposiciones constitucionales, de lo contrario, la norma general, acto u omisión de la autoridad es inconstitucional.
+
+Por su parte, el control de legalidad tiene como pilar fundamental el principio de legalidad, que se encuentra consagrado en los artículos 14 y 16 constitucional, lo que implica que cualquier acto de autoridad, independientemente de la materia en que se emita o del órgano estatal de que provenga, al no ajustarse o al contravenir la ley secundaria que deba normarlo, viola de modo concomitante dicha garantía, haciendo procedente el amparo, cuyo carácter extraordinario como medio de tutela de la legalidad en general se traduce en la circunstancia de que, antes de su interposición, deben promoverse todos los recursos ordinarios o medios de defensa de que normativamente disponga el gobernado para obtener la invalidación del acto de autoridad que lo agravió (principio de definitividad) (Burgoa, 2012, 148).
+
+Ahora bien, a partir de las reformas constitucionales del 6 y 10 de junio de 2011, el juicio de amparo adquiere una nueva característica esencial, puesto que ahora también es un medio de control de convencionalidad.
+
+En este sentido, el control de convencionalidad se refiere a los Derechos humanos establecidos en los tratados internacionales, teniendo al principio pro persona como criterio de interpretación de esos derechos humanos.
+
+De esta forma, la jurista e investigadora, Ximena Medellin Urquiaga, al atender la tesis de doble vertiente o dimensiones específicas de Néstor Pedro Sagüés, señala que el principio pro persona tiene dos dimensiones, como veremos a continuación:
+
+![M](2_.PNG) 
+ 
+En resumen, podemos afirmar que el amparo es un medio de control de la constitucionalidad, legalidad, y convencionalidad, que protege a las personas frente a normas generales, actos u omisiones por parte de los poderes públicos o de particulares.
+
+
+El juicio de amparo como medio de impugnación para resoluciones en el procedimiento penal
+
+Durante la unidad 1, La Segunda Instancia en el Procedimiento Penal, aprendimos que el Código Nacional de Procedimientos Penales reconoce que son objeto de impugnación los actos, omisiones y resoluciones judiciales. Cada uno de ellos da lugar a un medio de impugnación ordinario distinto.
+
+Según la definición de medios de impugnación de Ovalle Favela, podemos sostener que
+
+ 
+El autor dice...
+
+José Ovalle Favela
+
+El juicio de amparo “es un medio de impugnación porque, ante todo, es un procedimiento a través del cual las partes y los demás sujetos legitimados controvierten la validez o la legalidad de los actos procesales y resoluciones judiciales, o las omisiones del órgano jurisdiccional, y solicitan una resolución que anule, revoque o modifique el acto o resolución impugnado o que ordene subsanar la omisión” (Ovalle Favela: 2005, 327).
+
+ 
+En términos procesales, el juicio de amparo es un medio de impugnación extraordinario debido a que no se encuentra previsto por el Código Nacional de Procedimientos Penales, sino por la Ley de Amparo, reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
+
+ 
+Reflexión...
+Antes de seguir con el estudio de la unidad, reflexione lo siguiente:
+
+¿El juicio de amparo es medio de impugnación extraordinario, cuyo objetivo es determinar si la norma general, acto u omisión de la autoridad, es constitucional, legal y con apego los derechos humanos previstos en tratados internacionales (convencionalidad)?
+
+ 
+Tratándose de resoluciones judiciales, podemos dividir el amparo en dos tipos: directo e indirecto. Estudiemos cada uno de ellos.
+
+Amparo directo
+
+ 
+La Ley establece…
+De conformidad con el artículo 170 de la Ley de Amparo, el Juicio de Amparo directo procede contra sentencias definitivas que ponen fin al procedimiento, es decir, procede contra sentencias definitivas dictadas por el juez de control (procedimiento abreviado), o por el tribunal de enjuiciamiento (procedimiento ordinario), según sea el caso.
+
+ 
+Para que proceda el juicio de amparo directo es necesario que, previamente, se hayan agotado los recursos ordinarios que se establezcan en el Código Nacional de Procedimientos Penales. Aquí, el amparo es un medio de control de la constitucionalidad, legalidad y convencionalidad.
+
+El amparo como medio de control de la legalidad se encuentra previsto en el artículo 173 de la Ley de Amparo. Es necesario que este artículo lo tenga presente en su actuar profesional, principalmente, por los cambios del sistema, además de que con su correcta aplicación puede obtener la libertad del cliente o la regularización del procedimiento.
+
+ Pulse en Siguiente para navegar por los contenidos. Puede regresar a la información precedente pulsando en Anterior.
+ 
+Prescribiendo que se considerarán violadas las leyes del procedimiento con trascendencia a las defensas del quejoso, cuando:
+
+
+Prescribiendo que se considerarán violadas las leyes del procedimiento con trascendencia a las defensas del quejoso, cuando:
+I. Se desarrolle cualquier audiencia sin la presencia del juez actuante o se practiquen diligencias en forma distinta a la prevenida por la Ley.
+II. El desahogo de pruebas se realice por una persona, distinta al juez, que deba intervenir.
+III. Intervenga en el juicio un juez que haya conocido del caso previamente.
+IV. Habiéndolo solicitado no se le caree, en presencia del juez, en los supuestos y términos que establezca la ley (LA, art. 173).
+
+Prescribiendo que se considerarán violadas las leyes del procedimiento con trascendencia a las defensas del quejoso, cuando:
+I. Se desarrolle cualquier audiencia sin la presencia del juez actuante o se practiquen diligencias en forma distinta a la prevenida por la Ley.
+II. El desahogo de pruebas se realice por una persona, distinta al juez, que deba intervenir.
+III. Intervenga en el juicio un juez que haya conocido del caso previamente.
+IV. Habiéndolo solicitado no se le caree, en presencia del juez, en los supuestos y términos que establezca la ley (LA, art. 173).
+
+V. La presentación de argumentos y pruebas en el juicio no se realice de manera pública, contradictoria y oral.
+VI. La oportunidad para sostener la acusación o la defensa no se realice en igualdad de condiciones.
+VII. El juzgador reciba a una de las partes para tratar el asunto sujeto a proceso sin la presencia de la otra (LA, art. 173).
+Prescribiendo que se considerarán violadas las leyes del procedimiento con trascendencia a las defensas del quejoso, cuando:
+I. Se desarrolle cualquier audiencia sin la presencia del juez actuante o se practiquen diligencias en forma distinta a la prevenida por la Ley.
+II. El desahogo de pruebas se realice por una persona, distinta al juez, que deba intervenir.
+III. Intervenga en el juicio un juez que haya conocido del caso previamente.
+IV. Habiéndolo solicitado no se le caree, en presencia del juez, en los supuestos y términos que establezca la ley (LA, art. 173).
+
+V. La presentación de argumentos y pruebas en el juicio no se realice de manera pública, contradictoria y oral.
+VI. La oportunidad para sostener la acusación o la defensa no se realice en igualdad de condiciones.
+VII. El juzgador reciba a una de las partes para tratar el asunto sujeto a proceso sin la presencia de la otra (LA, art. 173).
+
+VIII. No se respete al imputado el derecho a declarar o guardar silencio, la declaración del imputado se obtenga mediante incomunicación, intimidación, tortura o sin presencia de su defensor, o cuando el ejercicio del derecho a guardar silencio se utilice en su perjuicio.
+IX. El imputado no sea informado, desde el momento de su detención, en su comparecencia ante el Ministerio Público o ante el juez, de los hechos que se le imputan y los derechos que le asisten (LA, art. 173).
+X. No se reciban al imputado las pruebas pertinentes que ofrezca o no se reciban con arreglo a derecho, no se le conceda el tiempo para el ofrecimiento de pruebas o no se le auxilie para obtener la comparecencia de las personas de quienes ofrezca su testimonio en los términos señalados por la Ley.
+XI. El imputado no sea juzgado en audiencia pública por un juez o tribunal, salvo cuando se trate de los casos de excepción precisados por la Constitución Política de los Estados Unidos Mexicanos (LA, art. 173).
+Prescribiendo que se considerarán violadas las leyes del procedimiento con trascendencia a las defensas del quejoso, cuando:
+I. Se desarrolle cualquier audiencia sin la presencia del juez actuante o se practiquen diligencias en forma distinta a la prevenida por la Ley.
+II. El desahogo de pruebas se realice por una persona, distinta al juez, que deba intervenir.
+III. Intervenga en el juicio un juez que haya conocido del caso previamente.
+IV. Habiéndolo solicitado no se le caree, en presencia del juez, en los supuestos y términos que establezca la ley (LA, art. 173).
+
+V. La presentación de argumentos y pruebas en el juicio no se realice de manera pública, contradictoria y oral.
+VI. La oportunidad para sostener la acusación o la defensa no se realice en igualdad de condiciones.
+VII. El juzgador reciba a una de las partes para tratar el asunto sujeto a proceso sin la presencia de la otra (LA, art. 173).
+
+VIII. No se respete al imputado el derecho a declarar o guardar silencio, la declaración del imputado se obtenga mediante incomunicación, intimidación, tortura o sin presencia de su defensor, o cuando el ejercicio del derecho a guardar silencio se utilice en su perjuicio.
+IX. El imputado no sea informado, desde el momento de su detención, en su comparecencia ante el Ministerio Público o ante el juez, de los hechos que se le imputan y los derechos que le asisten (LA, art. 173).
+
+X. No se reciban al imputado las pruebas pertinentes que ofrezca o no se reciban con arreglo a derecho, no se le conceda el tiempo para el ofrecimiento de pruebas o no se le auxilie para obtener la comparecencia de las personas de quienes ofrezca su testimonio en los términos señalados por la Ley.
+XI. El imputado no sea juzgado en audiencia pública por un juez o tribunal, salvo cuando se trate de los casos de excepción precisados por la Constitución Política de los Estados Unidos Mexicanos (LA, art. 173).
+
+XII. No se faciliten al imputado todos los datos que solicite para su defensa y que consten en el proceso o se restrinja al imputado y a la defensa el acceso a los registros de investigación cuando el primero esté detenido o se pretenda recibirle declaración o entrevistarlo (LA, art. 173).
+Prescribiendo que se considerarán violadas las leyes del procedimiento con trascendencia a las defensas del quejoso, cuando:
+I. Se desarrolle cualquier audiencia sin la presencia del juez actuante o se practiquen diligencias en forma distinta a la prevenida por la Ley.
+II. El desahogo de pruebas se realice por una persona, distinta al juez, que deba intervenir.
+III. Intervenga en el juicio un juez que haya conocido del caso previamente.
+IV. Habiéndolo solicitado no se le caree, en presencia del juez, en los supuestos y términos que establezca la ley (LA, art. 173).
+
+V. La presentación de argumentos y pruebas en el juicio no se realice de manera pública, contradictoria y oral.
+VI. La oportunidad para sostener la acusación o la defensa no se realice en igualdad de condiciones.
+VII. El juzgador reciba a una de las partes para tratar el asunto sujeto a proceso sin la presencia de la otra (LA, art. 173).
+
+VIII. No se respete al imputado el derecho a declarar o guardar silencio, la declaración del imputado se obtenga mediante incomunicación, intimidación, tortura o sin presencia de su defensor, o cuando el ejercicio del derecho a guardar silencio se utilice en su perjuicio.
+IX. El imputado no sea informado, desde el momento de su detención, en su comparecencia ante el Ministerio Público o ante el juez, de los hechos que se le imputan y los derechos que le asisten (LA, art. 173).
+
+X. No se reciban al imputado las pruebas pertinentes que ofrezca o no se reciban con arreglo a derecho, no se le conceda el tiempo para el ofrecimiento de pruebas o no se le auxilie para obtener la comparecencia de las personas de quienes ofrezca su testimonio en los términos señalados por la Ley.
+XI. El imputado no sea juzgado en audiencia pública por un juez o tribunal, salvo cuando se trate de los casos de excepción precisados por la Constitución Política de los Estados Unidos Mexicanos (LA, art. 173).
+
+XII. No se faciliten al imputado todos los datos que solicite para su defensa y que consten en el proceso o se restrinja al imputado y a la defensa el acceso a los registros de investigación cuando el primero esté detenido o se pretenda recibirle declaración o entrevistarlo (LA, art. 173).
+
+XIII. No se respete al imputado el derecho a contar con una defensa adecuada por abogado que elija libremente desde el momento de su detención o, en caso de que no quiera o no pueda hacerlo, el juez no le nombre un defensor público, o cuando se impida, restrinja o intervenga la comunicación con su defensor; cuando el imputado sea indígena no se le proporcione la asistencia de un defensor que tenga conocimiento de su lengua y cultura, así como cuando el defensor no comparezca a todos los actos del proceso (LA, art. 173).
+
+Prescribiendo que se considerarán violadas las leyes del procedimiento con trascendencia a las defensas del quejoso, cuando:
+I. Se desarrolle cualquier audiencia sin la presencia del juez actuante o se practiquen diligencias en forma distinta a la prevenida por la Ley.
+II. El desahogo de pruebas se realice por una persona, distinta al juez, que deba intervenir.
+III. Intervenga en el juicio un juez que haya conocido del caso previamente.
+IV. Habiéndolo solicitado no se le caree, en presencia del juez, en los supuestos y términos que establezca la ley (LA, art. 173).
+
+V. La presentación de argumentos y pruebas en el juicio no se realice de manera pública, contradictoria y oral.
+VI. La oportunidad para sostener la acusación o la defensa no se realice en igualdad de condiciones.
+VII. El juzgador reciba a una de las partes para tratar el asunto sujeto a proceso sin la presencia de la otra (LA, art. 173).
+
+VIII. No se respete al imputado el derecho a declarar o guardar silencio, la declaración del imputado se obtenga mediante incomunicación, intimidación, tortura o sin presencia de su defensor, o cuando el ejercicio del derecho a guardar silencio se utilice en su perjuicio.
+IX. El imputado no sea informado, desde el momento de su detención, en su comparecencia ante el Ministerio Público o ante el juez, de los hechos que se le imputan y los derechos que le asisten (LA, art. 173).
+
+X. No se reciban al imputado las pruebas pertinentes que ofrezca o no se reciban con arreglo a derecho, no se le conceda el tiempo para el ofrecimiento de pruebas o no se le auxilie para obtener la comparecencia de las personas de quienes ofrezca su testimonio en los términos señalados por la Ley.
+XI. El imputado no sea juzgado en audiencia pública por un juez o tribunal, salvo cuando se trate de los casos de excepción precisados por la Constitución Política de los Estados Unidos Mexicanos (LA, art. 173).
+
+XII. No se faciliten al imputado todos los datos que solicite para su defensa y que consten en el proceso o se restrinja al imputado y a la defensa el acceso a los registros de investigación cuando el primero esté detenido o se pretenda recibirle declaración o entrevistarlo (LA, art. 173).
+
+XIII. No se respete al imputado el derecho a contar con una defensa adecuada por abogado que elija libremente desde el momento de su detención o, en caso de que no quiera o no pueda hacerlo, el juez no le nombre un defensor público, o cuando se impida, restrinja o intervenga la comunicación con su defensor; cuando el imputado sea indígena no se le proporcione la asistencia de un defensor que tenga conocimiento de su lengua y cultura, así como cuando el defensor no comparezca a todos los actos del proceso (LA, art. 173).
+
+XIV. En caso de que el imputado no hable o entienda suficientemente el idioma español o sea sordo o mudo y no se le proporcione la asistencia de un intérprete que le permita acceder plenamente a la jurisdicción del Estado, o que tratándose de personas indígenas no se les proporcione un intérprete que tenga conocimiento de su lengua y cultura.
+XV. No se cite al imputado para las diligencias que tenga derecho a presenciar o se haga en forma contraria a la ley, siempre que por ello no comparezca, no se le admita en el acto de la diligencia o se le coarten en ella los derechos que la ley le otorga (LA, art. 173).
+
+Prescribiendo que se considerarán violadas las leyes del procedimiento con trascendencia a las defensas del quejoso, cuando:
+I. Se desarrolle cualquier audiencia sin la presencia del juez actuante o se practiquen diligencias en forma distinta a la prevenida por la Ley.
+II. El desahogo de pruebas se realice por una persona, distinta al juez, que deba intervenir.
+III. Intervenga en el juicio un juez que haya conocido del caso previamente.
+IV. Habiéndolo solicitado no se le caree, en presencia del juez, en los supuestos y términos que establezca la ley (LA, art. 173).
+
+V. La presentación de argumentos y pruebas en el juicio no se realice de manera pública, contradictoria y oral.
+VI. La oportunidad para sostener la acusación o la defensa no se realice en igualdad de condiciones.
+VII. El juzgador reciba a una de las partes para tratar el asunto sujeto a proceso sin la presencia de la otra (LA, art. 173).
+
+VIII. No se respete al imputado el derecho a declarar o guardar silencio, la declaración del imputado se obtenga mediante incomunicación, intimidación, tortura o sin presencia de su defensor, o cuando el ejercicio del derecho a guardar silencio se utilice en su perjuicio.
+IX. El imputado no sea informado, desde el momento de su detención, en su comparecencia ante el Ministerio Público o ante el juez, de los hechos que se le imputan y los derechos que le asisten (LA, art. 173).
+
+X. No se reciban al imputado las pruebas pertinentes que ofrezca o no se reciban con arreglo a derecho, no se le conceda el tiempo para el ofrecimiento de pruebas o no se le auxilie para obtener la comparecencia de las personas de quienes ofrezca su testimonio en los términos señalados por la Ley.
+XI. El imputado no sea juzgado en audiencia pública por un juez o tribunal, salvo cuando se trate de los casos de excepción precisados por la Constitución Política de los Estados Unidos Mexicanos (LA, art. 173).
+
+XII. No se faciliten al imputado todos los datos que solicite para su defensa y que consten en el proceso o se restrinja al imputado y a la defensa el acceso a los registros de investigación cuando el primero esté detenido o se pretenda recibirle declaración o entrevistarlo (LA, art. 173).
+
+XIII. No se respete al imputado el derecho a contar con una defensa adecuada por abogado que elija libremente desde el momento de su detención o, en caso de que no quiera o no pueda hacerlo, el juez no le nombre un defensor público, o cuando se impida, restrinja o intervenga la comunicación con su defensor; cuando el imputado sea indígena no se le proporcione la asistencia de un defensor que tenga conocimiento de su lengua y cultura, así como cuando el defensor no comparezca a todos los actos del proceso (LA, art. 173).
+
+XIV. En caso de que el imputado no hable o entienda suficientemente el idioma español o sea sordo o mudo y no se le proporcione la asistencia de un intérprete que le permita acceder plenamente a la jurisdicción del Estado, o que tratándose de personas indígenas no se les proporcione un intérprete que tenga conocimiento de su lengua y cultura.
+XV. No se cite al imputado para las diligencias que tenga derecho a presenciar o se haga en forma contraria a la ley, siempre que por ello no comparezca, no se le admita en el acto de la diligencia o se le coarten en ella los derechos que la ley le otorga (LA, art. 173).
+
+XVI. Debiendo ser juzgado por un jurado, no se integre en los términos previstos en la ley o se le juzgue por otro tribunal. 
+XVII. Se sometan a la decisión del jurado cuestiones de índole distinta a las señaladas.
+XVIII. No se permita interponer los recursos en los términos que la ley prevea respecto de providencias que afecten partes sustanciales del procedimiento que produzcan indefensión (LA, art. 173).
+Prescribiendo que se considerarán violadas las leyes del procedimiento con trascendencia a las defensas del quejoso, cuando:
+I. Se desarrolle cualquier audiencia sin la presencia del juez actuante o se practiquen diligencias en forma distinta a la prevenida por la Ley.
+II. El desahogo de pruebas se realice por una persona, distinta al juez, que deba intervenir.
+III. Intervenga en el juicio un juez que haya conocido del caso previamente.
+IV. Habiéndolo solicitado no se le caree, en presencia del juez, en los supuestos y términos que establezca la ley (LA, art. 173).
+
+V. La presentación de argumentos y pruebas en el juicio no se realice de manera pública, contradictoria y oral.
+VI. La oportunidad para sostener la acusación o la defensa no se realice en igualdad de condiciones.
+VII. El juzgador reciba a una de las partes para tratar el asunto sujeto a proceso sin la presencia de la otra (LA, art. 173).
+
+VIII. No se respete al imputado el derecho a declarar o guardar silencio, la declaración del imputado se obtenga mediante incomunicación, intimidación, tortura o sin presencia de su defensor, o cuando el ejercicio del derecho a guardar silencio se utilice en su perjuicio.
+IX. El imputado no sea informado, desde el momento de su detención, en su comparecencia ante el Ministerio Público o ante el juez, de los hechos que se le imputan y los derechos que le asisten (LA, art. 173).
+
+X. No se reciban al imputado las pruebas pertinentes que ofrezca o no se reciban con arreglo a derecho, no se le conceda el tiempo para el ofrecimiento de pruebas o no se le auxilie para obtener la comparecencia de las personas de quienes ofrezca su testimonio en los términos señalados por la Ley.
+XI. El imputado no sea juzgado en audiencia pública por un juez o tribunal, salvo cuando se trate de los casos de excepción precisados por la Constitución Política de los Estados Unidos Mexicanos (LA, art. 173).
+
+XII. No se faciliten al imputado todos los datos que solicite para su defensa y que consten en el proceso o se restrinja al imputado y a la defensa el acceso a los registros de investigación cuando el primero esté detenido o se pretenda recibirle declaración o entrevistarlo (LA, art. 173).
+
+XIII. No se respete al imputado el derecho a contar con una defensa adecuada por abogado que elija libremente desde el momento de su detención o, en caso de que no quiera o no pueda hacerlo, el juez no le nombre un defensor público, o cuando se impida, restrinja o intervenga la comunicación con su defensor; cuando el imputado sea indígena no se le proporcione la asistencia de un defensor que tenga conocimiento de su lengua y cultura, así como cuando el defensor no comparezca a todos los actos del proceso (LA, art. 173).
+
+XIV. En caso de que el imputado no hable o entienda suficientemente el idioma español o sea sordo o mudo y no se le proporcione la asistencia de un intérprete que le permita acceder plenamente a la jurisdicción del Estado, o que tratándose de personas indígenas no se les proporcione un intérprete que tenga conocimiento de su lengua y cultura.
+XV. No se cite al imputado para las diligencias que tenga derecho a presenciar o se haga en forma contraria a la ley, siempre que por ello no comparezca, no se le admita en el acto de la diligencia o se le coarten en ella los derechos que la ley le otorga (LA, art. 173).
+
+XVI. Debiendo ser juzgado por un jurado, no se integre en los términos previstos en la ley o se le juzgue por otro tribunal. 
+XVII. Se sometan a la decisión del jurado cuestiones de índole distinta a las señaladas.
+XVIII. No se permita interponer los recursos en los términos que la ley prevea respecto de providencias que afecten partes sustanciales del procedimiento que produzcan indefensión (LA, art. 173).
+
+XIX. Al dictarse una sentencia definitiva absolutoria o un auto que se refiera a la libertad del imputado no se hayan respetado, entre otros, los siguientes derechos de la víctima u ofendido del delito: 
+
+A que se le proporcione asesoría jurídica y se le informe tanto de los derechos que le asisten como del desarrollo del procedimiento penal;
+A coadyuvar con el Ministerio Público, a que se le reciban todos los datos o elementos de prueba con los que cuente tanto en investigación como en el proceso y a que se le permita intervenir en el juicio (LA, art. 173).
+
+Prescribiendo que se considerarán violadas las leyes del procedimiento con trascendencia a las defensas del quejoso, cuando:  
+I. Se desarrolle cualquier audiencia sin la presencia del juez actuante o se practiquen diligencias en forma distinta a la prevenida por la Ley.  
+II. El desahogo de pruebas se realice por una persona, distinta al juez, que deba intervenir.  
+III. Intervenga en el juicio un juez que haya conocido del caso previamente.  
+IV. Habiéndolo solicitado no se le caree, en presencia del juez, en los supuestos y términos que establezca la ley (LA, art. 173).  
+
+V. La presentación de argumentos y pruebas en el juicio no se realice de manera pública, contradictoria y oral.  
+VI. La oportunidad para sostener la acusación o la defensa no se realice en igualdad de condiciones.  
+VII. El juzgador reciba a una de las partes para tratar el asunto sujeto a proceso sin la presencia de la otra (LA, art. 173).  
+
+VIII. No se respete al imputado el derecho a declarar o guardar silencio, la declaración del imputado se obtenga mediante incomunicación, intimidación, tortura o sin presencia de su defensor, o cuando el ejercicio del derecho a guardar silencio se utilice en su perjuicio.  
+IX. El imputado no sea informado, desde el momento de su detención, en su comparecencia ante el Ministerio Público o ante el juez, de los hechos que se le imputan y los derechos que le asisten (LA, art. 173).  
+
+X. No se reciban al imputado las pruebas pertinentes que ofrezca o no se reciban con arreglo a derecho, no se le conceda el tiempo para el ofrecimiento de pruebas o no se le auxilie para obtener la comparecencia de las personas de quienes ofrezca su testimonio en los términos señalados por la Ley.  
+XI. El imputado no sea juzgado en audiencia pública por un juez o tribunal, salvo cuando se trate de los casos de excepción precisados por la Constitución Política de los Estados Unidos Mexicanos (LA, art. 173).  
+
+XII. No se faciliten al imputado todos los datos que solicite para su defensa y que consten en el proceso o se restrinja al imputado y a la defensa el acceso a los registros de investigación cuando el primero esté detenido o se pretenda recibirle declaración o entrevistarlo (LA, art. 173).  
+
+XIII. No se respete al imputado el derecho a contar con una defensa adecuada por abogado que elija libremente desde el momento de su detención o, en caso de que no quiera o no pueda hacerlo, el juez no le nombre un defensor público, o cuando se impida, restrinja o intervenga la comunicación con su defensor; cuando el imputado sea indígena no se le proporcione la asistencia de un defensor que tenga conocimiento de su lengua y cultura, así como cuando el defensor no comparezca a todos los actos del proceso (LA, art. 173).  
+
+XIV. En caso de que el imputado no hable o entienda suficientemente el idioma español o sea sordo o mudo y no se le proporcione la asistencia de un intérprete que le permita acceder plenamente a la jurisdicción del Estado, o que tratándose de personas indígenas no se les proporcione un intérprete que tenga conocimiento de su lengua y cultura.  
+XV. No se cite al imputado para las diligencias que tenga derecho a presenciar o se haga en forma contraria a la ley, siempre que por ello no comparezca, no se le admita en el acto de la diligencia o se le coarten en ella los derechos que la ley le otorga (LA, art. 173).  
+
+XVI. Debiendo ser juzgado por un jurado, no se integre en los términos previstos en la ley o se le juzgue por otro tribunal.   
+XVII. Se sometan a la decisión del jurado cuestiones de índole distinta a las señaladas.  
+XVIII. No se permita interponer los recursos en los términos que la ley prevea respecto de providencias que afecten partes sustanciales del procedimiento que produzcan indefensión (LA, art. 173).  
+
+XIX. Al dictarse una sentencia definitiva absolutoria o un auto que se refiera a la libertad del imputado no se hayan respetado, entre otros, los siguientes derechos de la víctima u ofendido del delito:   
+
+- A que se le proporcione asesoría jurídica y se le informe tanto de los derechos que le asisten como del desarrollo del procedimiento penal;
+- A coadyuvar con el Ministerio Público, a que se le reciban todos los datos o elementos de prueba con los que cuente tanto en investigación como en el proceso y a que se le permita intervenir en el juicio (LA, art. 173).
+- Al resguardo de su identidad cuando sean menores de edad o por delitos de violación, secuestro, delincuencia organizada o trata de personas y cuando a juicio del juzgador sea necesaria su protección, salvo que tal circunstancia derive de la debida salvaguarda de los derechos de la defensa; y
+- A solicitar las medidas cautelares y providencias necesarias para la protección y restitución de sus derechos.
+
+XX. Cuando la sentencia se funde en alguna diligencia cuya nulidad haya sido establecido expresamente por una norma general (LA, art. 173).  
+
+XXI. Cuando seguido el proceso por el delito determinado en el auto de vinculación a proceso, el quejoso hubiese sido sentenciado por diverso delito. No se considerará que el delito es diverso cuando el que se exprese en la sentencia sólo difiera en grado del que haya sido materia del proceso, ni cuando se refiera a los mismos hechos materiales que fueron objeto de la investigación, siempre que, en este último caso, el Ministerio Público haya formulado conclusiones acusatorias cambiando la clasificación del delito hecha en el auto de vinculación a proceso, y el quejoso hubiese sido oído en defensa sobre la nueva clasificación, durante el juicio. (LA, art. 173)
+
+XXII. Se trate de casos análogos a las fracciones anteriores a juicio del órgano jurisdiccional de amparo (LA, art. 173).
+
+Como se observa, usted puede utilizar una o varias de las causales previstas por el artículo 173 de la Ley de Amparo, ya que éstas trascienden en la defensa del quejoso (imputado, víctima u ofendido), por lo que, dentro de su demanda de amparo directo, debe elaborar argumentos que versen sobre la legalidad del procedimiento penal y, para ello, tendrá que utilizar el precepto legal en cita; así como argumentos que versen sobre la constitucionalidad y convencionalidad de la sentencia.
+
+ 
+¡Importante!
+En la demanda de amparo principal y, en su caso, en la adhesiva el quejoso deberá hacer valer todas las violaciones procesales que estime se cometieron; las que no se hagan valer se tendrán por consentidas. Asimismo, precisará la forma en que trascendieron en su perjuicio al resultado del fallo.
+
+ Amparo indirecto
+
+De manera general, en materia penal, el juicio de amparo indirecto procede contra actos de autoridad dictados antes, durante y después del proceso penal.
+
+El artículo 107 de la Ley de Amparo prescribe los momentos en que procede el amparo indirecto. Es necesario que este artículo lo tenga presente en su actuar profesional, principalmente, por los cambios del sistema, además de que aún se tiene la idea, de que el amparo sólo se puede interponer cuando hay sentencia definitiva, lo cual es falso, ya que el juicio de amparo indirecto se puede interponer, antes, durante, y después del procedimiento penal. Es importante que sepa aplicar dicho artículo para que a la hora de defender los intereses de su cliente, pueda hacerlo de manera correcta.
+
+ Pulse en Siguiente para navegar por los contenidos. Puede regresar a la información precedente pulsando en Anterior.
+ 
+“El amparo indirecto procede:
+Contra normas generales que por su sola entrada en vigor o con motivo del primer acto de su aplicación causen perjuicio al quejoso” (LA, art. 107).
+
+I. Se entiende por normas generales, entre otras, las siguientes:
+
+- Los tratados internacionales aprobados en los términos previstos en el artículo 133 de la Constitución Política de los Estados Unidos Mexicanos; salvo aquellas disposiciones en que tales tratados reconozcan derechos humanos;
+- Las leyes federales;
+- Las constituciones de los Estados y el Estatuto de Gobierno del Distrito Federal;
+- Las leyes de los Estados y del Distrito Federal;
+- Los reglamentos federales;
+- Los reglamentos locales; y
+- Los decretos, acuerdos y todo tipo de resoluciones de observancia general. (LA, art. 107)
+
+II. Contra actos de tribunales judiciales realizados fuera de juicio o después de concluido. Si se trata de actos de ejecución de sentencia sólo podrá promoverse el amparo contra la última resolución dictada en el procedimiento respectivo, entendida como aquélla que aprueba o reconoce el cumplimiento total de lo sentenciado o declara la imposibilidad material o jurídica para darle cumplimiento, o las que ordenan el archivo definitivo del expediente, pudiendo reclamarse en la misma demanda las violaciones cometidas durante ese procedimiento que hubieren dejado sin defensa al quejoso y trascendido al resultado de la resolución (LA, art. 107).
+
+III. Contra actos en juicio cuyos efectos sean de imposible reparación, entendiéndose por ellos los que afecten materialmente derechos sustantivos tutelados en la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales de los que el Estado Mexicano sea parte (LA, art. 107).
+
+
+IV. Contra las omisiones del Ministerio Público en la investigación de los delitos, así como las resoluciones de reserva, no ejercicio, desistimiento de la acción penal, o por suspensión de procedimiento cuando no esté satisfecha la reparación del daño.
+
+V. Contra actos de autoridad que determinen inhibir o declinar la competencia o el conocimiento de un asunto (LA, art. 107). 
+
+Como puede observarse, el amparo indirecto procede contra actos de autoridad, normas generales, actos u omisiones de las autoridades judiciales, y actos u omisiones del Ministerio Público y, sobre todo, contra actos cuyos efectos sean de imposible reparación. Pero no son todos los supuestos. De manera específica, con fundamento en el artículo 107, fracción V, de la Ley de Amparo, el Juicio de Amparo Indirecto procede contra…
+
+El auto de vinculación a proceso
+El auto que determina el quantum de la reparación del daño
+Sustitución de medida cautelar
+La de apertura a juicio
+Auto que determina el sobreseimiento
+Auto que admite o desecha pruebas
+Auto que determina la ilicitud de las pruebas
+Auto que determina la corrección de vicios formales
+Auto que rechace a los acuerdos probatorios
+ 
+Desde la práctica
+Uno de los errores más frecuentes que se viven en el juicio de amparo está dado en relación con la vigencia que aún tiene la escuela de la exégesis, que impulsaba la interpretación literal de las normas. Por lo que si el supuesto a impugnar no está previsto literalmente, el juicio de ampro se sobresee. De ahí la importancia de que usted sea consiente de dicha situación y sea capaz de interpretar adecuadamente la legislación y argumentar correctamente su postura para que no le sobreseyeran el amparo indirecto bajo ese argumento arcaico.
+
+ 
+Por otra parte, ateniendo a los artículos 159, 161-166 y 169 de la Ley de Amparo, los supuestos en los que puede proceder un amparo penal indirecto son:
+
+- Cuando el acto reclamado:
+    - sea la orden de deportación, expulsión o extradición.     
+    - consista en la orden de traslado del quejoso de un centro penitenciario a otro. 
+    - consista en una orden de privación de la libertad o en la prohibición de abandonar una demarcación geográfica. 
+    - consista en la detención del quejoso efectuada por autoridades administrativas distintas del Ministerio Público, en relación con la comisión de un delito 
+    - afecte la libertad personal del quejoso y se encuentre a disposición del Ministerio Público por cumplimiento de orden de detención de éste.  
+
+- Cuando el amparo se pida contra actos que afecten la libertad personal dentro de un procedimiento del orden penal.
+- Cuando el quejoso se encuentre a disposición del Ministerio Público por haber sido detenido en flagrancia.
+- Cuando se trate de orden de aprehensión o reaprehensión o de medida cautelar que implique privación de la libertad, dictadas por autoridad competente.
+Cuando haya temor fundado de que la autoridad responsable trate de burlar la orden de libertad del quejoso o de ocultarlo.
+ 
+¡Importante!
+Para la procedencia de la suspensión contra actos derivados de un procedimiento penal que afecten la libertad personal, el órgano jurisdiccional de amparo deberá exigir al quejoso que exhiba garantía, sin perjuicio de otras medidas de aseguramiento que estime convenientes. Para fijar el monto de la garantía se tomará en cuenta: la naturaleza, modalidades y características del delito que se le impute; las características personales y situación económica del quejoso; y la posibilidad de que se sustraiga a la acción de la justicia.
+
+ Situación de dualidad de posibilidades de escoger la impugnación en el recurso ordinario o en el juicio de amparo
+
+El juicio de amparo como medio de impugnación presenta una dualidad, puede ser considerado como un medio de impugnación extraordinario o, en su caso, como un recurso extraordinario.
+
+Recordemos que el juicio de amparo es un medio de impugnación porque, ante todo, es un procedimiento a través del cual las partes y los demás sujetos legitimados controvierten la validez o la legalidad de los actos procesales y resoluciones judiciales, o las omisiones del órgano jurisdiccional, y solicitan una resolución que anule, revoque o modifique el acto o resolución impugnado o que ordene subsanar la omisión.
+
+Asimismo, debemos recordar que todo recurso es un medio de impugnación, pero no todo medio de impugnación es un recurso.
+
+Lo mismo sucede con el juicio de amparo, cuando éste se interpone contra una sentencia definitiva dictada por tribunal de alzada será recurso, ya que su objetivo es confirmar, revocar o modificar la sentencia impugnada. Pero, cuando se interpone contra un acto, omisión o aplicación de una norma general, por parte de la autoridad judicial o ministerial, el juicio de amparo se considera medio de impugnación, debido a que su objetivo es anular, revocar, modificar o subsanar el acto u omisión.
+
+En ambos casos, se considerarán como extraordinarios debido a que no se encuentran previstos por el Código Nacional de Procedimientos Penales.
+
+Veamos a continuación, de manera gráfica, cuando el juicio de amparo se considera como un medio de impugnación extraordinario y en qué situación como un recurso extraordinario:
+
+ Pulse en cada concepto para desplegar el contenido. Al pulsar en otro concepto el desplegado volverá a su posición inicial.
+ 
+
+Variable: No ejercicio de la acción penal
+![m](1_.PNG)
+
+Variable: Reserva de la acción penal
+![m](2__.PNG)
+
+Variable: Auto de vinculación a proceso
+![m](3_.PNG)
+
+Variable: Auto que determina las medidas cautelares
+![m](4_.PNG)
+
+Variable: Criterio de oportunidad
+![m](5_.PNG)
+
+Variable: Acuerdo reparatorio
+![m](6_.PNG)
+
+Variable: Actos realizados en la etapa de investigación
+![m](7_.PNG)
+
+Variable: Actos realizados en la etapa de intermedia
+![m](8_.PNG)
+
+Variable: Actos realizados en la etapa de juicio
+![m](9_.PNG)
+
+Variable: Actos realizados en la etapa de ejecución de la sentencia
+![m](10_.PNG)
+
+Variable: Sentencias definitivas
+![m](11_.PNG)
+ 
+Como pudo darse cuenta, si se trata de una sentencia definitiva dictada por el tribunal de alzada, el juicio de amparo es un recurso extraordinario. Cabe precisar que cuando se dice tribunal de alzada se hace referencia a las salas penales del Poder Judicial del Fuero Común, si el delito se encuentra contemplado por el Código Penal para el Distrito Federal o de la entidad federativa, según sea el caso; y si se trata de un delito previsto por el Código Penal Federal, entonces, el tribunal de alzada es el tribunal unitario de circuito del Poder Judicial de la Federación.
+
+Por otra parte, el Juicio de Amparo se considerará medio de impugnación extraordinario cuando se interponga en contra de la aplicación de una norma general en la determinación, acto u omisión, de la autoridad judicial o ministerial, ya sea antes, durante o después del procedimiento penal.
+
+ Pulse las áreas que se marcan como sensibles para desplegar la información correspondiente.
+
+![](recu.PNG)
+
+Recurso extraordinario
+
+El juicio de amparo directo se considerará como recurso extraordinario, cuando se interponga, única y exclusivamente, contra la sentencia definitiva dictada por el tribunal de alzada.
+
+El juicio de amparo directo, como recurso extraordinario, es una evolución histórica de los recursos de súplica y casación. Antes de la reforma del 18 de enero de 1934, existía desde la promulgación de la Constitución hasta antes de esa fecha, el recurso de súplica cuya interposición ante la Suprema Corte provocaba una tercera instancia, teniendo por objeto confirmar, revocar o modificar las sentencias dictadas en segunda instancia en los juicios civiles y criminales que hubiesen versado sobre la aplicación o cumplimiento de leyes federales (Burgoa Orihuela: 2009, 150).
+
+Por su parte, el recurso de casación coincide con el juicio de amparo directo, debido a que en su procedencia y teleología, es susceptible de entablarse contra sentencias definitivas por vicios de ilegalidad in judicando e in procedendo. Mediante este recurso se “casan” o invalida el fallo impugnado por contravenir éste la garantía de legalidad bajo cualquiera de los dos vicios apuntados. Se utilizaba para procedimientos del fuero común y en negocios mercantiles (Burgoa Orihuela: 2009, 180).
+
+Es importante mencionar que para algunos juristas el juicio de amparo directo como recurso extraordinario, representa una tercera instancia.
+
+Medio de impugnación extraordinario
+
+El juicio de amparo indirecto se considerará como medio de impugnación extraordinario, en virtud de que se interpone en contra de un acto, omisión o determinación el Ministerio Público u órgano jurisdiccional.
+
+ 
+En la actualidad, el juicio de amparo directo e indirecto es un medio de control de la constitucionalidad, legalidad, y convencionalidad, que protege a las personas frente a normas generales, actos u omisiones por parte de los poderes públicos o de particulares. Lo que en palabras de Ignacio Burgoa Orihuela se traduce en que el juicio amparo es una institución procesal que tiene por objeto proteger al gobernado contra cualquier acto de autoridad (lato sensu) que, en detrimento de sus derechos, viole la Constitución (Burgoa Orihuela: 2009, 172).
+
+Efectos de las ejecutorias del juicio de amparo
+
+Se dice que una sentencia ha causado ejecutoria cuando ya no existe la posibilidad de interponer algún recurso o medio de impugnación, ya sea ordinario o extraordinario. Los efectos de las ejecutorias del juicio de amparo dependerán del acto impugnado.
+
+En este sentido, para hacer más práctico y comprensible este tema, revise la tabla: Efectos de las ejecutorias del juicio de amparo.
+
+<table class="MsoNormalTable"
+ style="border: medium none ; border-collapse: collapse;"
+ border="1" cellpadding="0" cellspacing="0">
+  <tbody>
+    <tr style="">
+      <td
+ style="border-style: solid none; border-color: windowtext -moz-use-text-color; border-width: 2.25pt medium; padding: 0cm 5.4pt; background: rgb(79, 129, 189) none repeat scroll 0%; width: 117.7pt; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"
+ valign="top" width="157">
+      <p class="MsoNormal" style="text-align: center;"
+ align="center"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: white;"
+ lang="ES-MX">ACTO IMPUGANADO<o:p></o:p></span></p>
+      </td>
+      <td
+ style="border-style: solid none; border-color: windowtext -moz-use-text-color; border-width: 2.25pt medium; padding: 0cm 5.4pt; background: rgb(79, 129, 189) none repeat scroll 0%; width: 240.7pt; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"
+ valign="top" width="321">
+      <p class="MsoNormal" style="text-align: center;"
+ align="center"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: white;"
+ lang="ES-MX">EFECTOS DE LAS EJECUTORIAS<o:p></o:p></span></p>
+      </td>
+      <td
+ style="border-style: solid none; border-color: windowtext -moz-use-text-color; border-width: 2.25pt medium; padding: 0cm 5.4pt; background: rgb(79, 129, 189) none repeat scroll 0%; width: 91.5pt; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"
+ valign="top" width="122">
+      <p class="MsoNormal" style="text-align: center;"
+ align="center"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: white;"
+ lang="ES-MX">TIPO DE AMPARO<o:p></o:p></span></p>
+      </td>
+    </tr>
+    <tr style="">
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; background: rgb(79, 129, 189) none repeat scroll 0%; width: 117.7pt; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"
+ valign="top" width="157">
+      <p class="MsoNormal"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: white;"
+ lang="ES-MX">Sentencias definitivas dictada<b style="">s</b>
+por el juez de control<o:p></o:p></span></p>
+      </td>
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; background: rgb(216, 216, 216) none repeat scroll 0%; width: 240.7pt; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"
+ valign="top" width="321">
+      <p class="MsoNormal" style="text-align: justify;"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX">Confirmar, revocar o modificar el acto
+impugnado. En caso de que se ordene la modificación, el juez de
+control, o tribunal de enjuiciamiento, en plenitud de funciones, emita
+uno nuevo.<o:p></o:p></span></p>
+      <p class="MsoNormal" style="text-align: justify;"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX"><o:p>&nbsp;</o:p></span></p>
+      </td>
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; background: rgb(216, 216, 216) none repeat scroll 0%; width: 91.5pt; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"
+ valign="top" width="122">
+      <p class="MsoNormal" style="text-align: center;"
+ align="center"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX">Directo<o:p></o:p></span></p>
+      </td>
+    </tr>
+    <tr style="">
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; background: rgb(79, 129, 189) none repeat scroll 0%; width: 117.7pt; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"
+ valign="top" width="157">
+      <p class="MsoNormal"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: white;"
+ lang="ES-MX">Sentencias definitivas dictada<b style="">s</b>
+por el tribunal de enjuiciamiento<span style="">&nbsp;
+      </span><o:p></o:p></span></p>
+      </td>
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; width: 240.7pt;"
+ valign="top" width="321">
+      <p class="MsoNormal" style="text-align: justify;"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX">Confirmar, revocar o modificar el acto
+impugnado. En caso de que se ordene la modificación, el tribunal de
+enjuiciamiento, en plenitud de funciones, emita uno nuevo.<o:p></o:p></span></p>
+      <p class="MsoNormal" style="text-align: justify;"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX"><o:p>&nbsp;</o:p></span></p>
+      </td>
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; width: 91.5pt;"
+ valign="top" width="122">
+      <p class="MsoNormal" style="text-align: center;"
+ align="center"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX">Directo<o:p></o:p></span></p>
+      </td>
+    </tr>
+    <tr style="">
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; background: rgb(79, 129, 189) none repeat scroll 0%; width: 117.7pt; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"
+ valign="top" width="157">
+      <p class="MsoNormal"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: white;"
+ lang="ES-MX">Orden de depor<b style="">tación,
+expulsión o extradición</b> <o:p></o:p></span></p>
+      </td>
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; background: rgb(216, 216, 216) none repeat scroll 0%; width: 240.7pt; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"
+ valign="top" width="321">
+      <p class="MsoNormal" style="text-align: justify;"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX">La suspensión tiene por efecto que no se
+ejecute y el interesado quede en el lugar donde se encuentre a
+disposición del órgano jurisdiccional de amparo, sólo en lo que se
+refiere a su libertad personal.<o:p></o:p></span></p>
+      <p class="MsoNormal" style="text-align: justify;"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX"><o:p>&nbsp;</o:p></span></p>
+      </td>
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; background: rgb(216, 216, 216) none repeat scroll 0%; width: 91.5pt; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"
+ valign="top" width="122">
+      <p class="MsoNormal" style="text-align: center;"
+ align="center"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX">Indirecto<o:p></o:p></span></p>
+      </td>
+    </tr>
+    <tr style="">
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; background: rgb(79, 129, 189) none repeat scroll 0%; width: 117.7pt; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"
+ valign="top" width="157">
+      <p class="MsoNormal"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: white;"
+ lang="ES-MX">Orden de traslado del quejoso de un centro
+penitenciario a otro<b style=""><o:p></o:p></b></span></p>
+      <p class="MsoNormal"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: white;"
+ lang="ES-MX"><o:p>&nbsp;</o:p></span></p>
+      </td>
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; width: 240.7pt;"
+ valign="top" width="321">
+      <p class="MsoNormal" style="text-align: justify;"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX">La suspensión tendrá por efecto que éste no se
+lleve a cabo.<o:p></o:p></span></p>
+      </td>
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; width: 91.5pt;"
+ valign="top" width="122">
+      <p class="MsoNormal" style="text-align: center;"
+ align="center"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX">Indirecto<o:p></o:p></span></p>
+      </td>
+    </tr>
+    <tr style="">
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; background: rgb(79, 129, 189) none repeat scroll 0%; width: 117.7pt; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"
+ valign="top" width="157">
+      <p class="MsoNormal"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: white;"
+ lang="ES-MX">Orden de privación de la libertad o en la
+prohibición de abandonar una demarcación geográfica<o:p></o:p></span></p>
+      </td>
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; background: rgb(216, 216, 216) none repeat scroll 0%; width: 240.7pt; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"
+ valign="top" width="321">
+      <p class="MsoNormal" style="text-align: justify;"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX">La suspensión tendrá por efecto que no se
+ejecute o cese inmediatamente, según sea el caso. <o:p></o:p></span></p>
+      <p class="MsoNormal" style="text-align: justify;"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX"><o:p>&nbsp;</o:p></span></p>
+      <p class="MsoNormal" style="text-align: justify;"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX">Asimismo, la suspensión podrá tener como efecto
+que la privación de la libertad se ejecute en el domicilio del quejoso.<o:p></o:p></span></p>
+      <p class="MsoNormal" style="text-align: justify;"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX"><o:p>&nbsp;</o:p></span></p>
+      </td>
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; background: rgb(216, 216, 216) none repeat scroll 0%; width: 91.5pt; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"
+ valign="top" width="122">
+      <p class="MsoNormal" style="text-align: center;"
+ align="center"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX">Indirecto <o:p></o:p></span></p>
+      </td>
+    </tr>
+    <tr style="">
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; background: rgb(79, 129, 189) none repeat scroll 0%; width: 117.7pt; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"
+ valign="top" width="157">
+      <p class="MsoNormal"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: white;"
+ lang="ES-MX">Actos que afecten la libertad personal dentro
+de u<b style="">n procedimiento del orden penal</b><o:p></o:p></span></p>
+      <p class="MsoNormal"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: white;"
+ lang="ES-MX"><o:p>&nbsp;</o:p></span></p>
+      </td>
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; width: 240.7pt;"
+ valign="top" width="321">
+      <p class="MsoNormal" style="text-align: justify;"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX">La suspensión producirá el efecto de que el
+quejoso quede a disposición del órgano jurisdiccional que conozca del
+amparo, sólo en lo que se refiere a dicha libertad, pero a disposición
+de la autoridad que deba juzgarlo, para la continuación del
+procedimiento.<o:p></o:p></span></p>
+      <p class="MsoNormal" style="text-align: justify;"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX"><o:p>&nbsp;</o:p></span></p>
+      <p class="MsoNormal" style="text-align: justify;"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX"><o:p>&nbsp;</o:p></span></p>
+      </td>
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; width: 91.5pt;"
+ valign="top" width="122">
+      <p class="MsoNormal" style="text-align: center;"
+ align="center"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX">Indirecto<o:p></o:p></span></p>
+      </td>
+    </tr>
+    <tr style="">
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; background: rgb(79, 129, 189) none repeat scroll 0%; width: 117.7pt; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"
+ valign="top" width="157">
+      <p class="MsoNormal"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: white;"
+ lang="ES-MX">Detención del quejoso efectuada por autoridades
+administrativas distintas del Ministerio Público, en relación con la
+comisión de un delito<o:p></o:p></span></p>
+      </td>
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; background: rgb(216, 216, 216) none repeat scroll 0%; width: 240.7pt; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"
+ valign="top" width="321">
+      <p class="MsoNormal" style="text-align: justify;"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX">Los efectos de este tipo de amparo son que se
+ordenará que sin demora cese la detención, poniéndolo en libertad o a
+disposición del Ministerio Público. <o:p></o:p></span></p>
+      <p class="MsoNormal" style="text-align: justify;"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX"><o:p>&nbsp;</o:p></span></p>
+      <p class="MsoNormal" style="text-align: justify;"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX">Cuando la detención del quejoso no tenga
+relación con la comisión de un delito, la suspensión tendrá por efecto
+que sea puesto en libertad.<o:p></o:p></span></p>
+      <p class="MsoNormal" style="text-align: justify;"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX"><o:p>&nbsp;</o:p></span></p>
+      </td>
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; background: rgb(216, 216, 216) none repeat scroll 0%; width: 91.5pt; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"
+ valign="top" width="122">
+      <p class="MsoNormal" style="text-align: center;"
+ align="center"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX">Indirecto<o:p></o:p></span></p>
+      </td>
+    </tr>
+    <tr style="">
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; background: rgb(79, 129, 189) none repeat scroll 0%; width: 117.7pt; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"
+ valign="top" width="157">
+      <p class="MsoNormal"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: white;"
+ lang="ES-MX">Cuando el acto reclamado afecte la libertad
+personal del quejoso y se encuentre a disposición del Ministerio
+Público por cump<b style="">limiento de orden de detención<o:p></o:p></b></span></p>
+      <p class="MsoNormal"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: white;"
+ lang="ES-MX"><o:p>&nbsp;</o:p></span></p>
+      </td>
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; width: 240.7pt;"
+ valign="top" width="321">
+      <p class="MsoNormal" style="text-align: justify;"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX">La suspensión se concederá para el efecto de
+que dentro del término de cuarenta y ocho horas o en un plazo de
+noventa y seis, tratándose de delincuencia organizada, contadas a
+partir del momento de la detención, sea puesto en libertad o consignado
+ante el juez penal correspondiente.<o:p></o:p></span></p>
+      </td>
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; width: 91.5pt;"
+ valign="top" width="122">
+      <p class="MsoNormal" style="text-align: center;"
+ align="center"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX">Indirecto<o:p></o:p></span></p>
+      </td>
+    </tr>
+    <tr style="">
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; background: rgb(79, 129, 189) none repeat scroll 0%; width: 117.7pt; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"
+ valign="top" width="157">
+      <p class="MsoNormal"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: white;"
+ lang="ES-MX">Orden de aprehensión o reaprehensión o de
+medida cautelar que implique privación de la libertad, dictadas por <b
+ style="">la </b>autoridad competente<o:p></o:p></span></p>
+      <p class="MsoNormal"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: white;"
+ lang="ES-MX"><o:p>&nbsp;</o:p></span></p>
+      <p class="MsoNormal"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: white;"
+ lang="ES-MX"><o:p>&nbsp;</o:p></span></p>
+      </td>
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; background: rgb(216, 216, 216) none repeat scroll 0%; width: 240.7pt; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"
+ valign="top" width="321">
+      <p class="MsoNormal" style="text-align: justify;"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX">Si se trata de delitos de prisión preventiva
+oficiosa a que se refiere el artículo 19 constitucional, la suspensión
+sólo producirá el efecto de que el quejoso quede a disposición del
+órgano jurisdiccional de amparo en el lugar que éste señale únicamente
+en lo que se refiera a su libertad, quedando a disposición de la
+autoridad a la que corresponda conocer el procedimiento penal para los
+efectos de su continuación.<o:p></o:p></span></p>
+      <p class="MsoNormal" style="text-align: justify;"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX"><o:p>&nbsp;</o:p></span></p>
+      <p class="MsoNormal" style="text-align: justify;"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX">Si se trata de delitos que no impliquen prisión
+preventiva oficiosa, la suspensión producirá el efecto de que el
+quejoso no sea detenido, bajo las medidas de aseguramiento que el
+órgano jurisdiccional de amparo estime necesarias, a fin de que no
+evada la acción de la justicia y se presente al proceso penal para los
+efectos de su continuación y pueda ser devuelto a la autoridad
+responsable en caso de que no obtenga la protección de la justicia
+federal.<o:p></o:p></span></p>
+      <p class="MsoNormal" style="text-align: justify;"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX"><o:p>&nbsp;</o:p></span></p>
+      </td>
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; background: rgb(216, 216, 216) none repeat scroll 0%; width: 91.5pt; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"
+ valign="top" width="122">
+      <p class="MsoNormal" style="text-align: center;"
+ align="center"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX">Indirecto<o:p></o:p></span></p>
+      </td>
+    </tr>
+    <tr style="">
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; background: rgb(79, 129, 189) none repeat scroll 0%; width: 117.7pt; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"
+ valign="top" width="157">
+      <p class="MsoNormal"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: white;"
+ lang="ES-MX">Cuando haya temor fundado de que la autoridad
+responsable trate de burlar la orden de libertad del quejoso o de
+ocultarlo<b style=""><o:p></o:p></b></span></p>
+      <p class="MsoNormal"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: white;"
+ lang="ES-MX"><o:p>&nbsp;</o:p></span></p>
+      </td>
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; width: 240.7pt;"
+ valign="top" width="321">
+      <p class="MsoNormal" style="text-align: justify;"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX">El efecto es que el órgano jurisdiccional de
+amparo podrá hacerlo comparecer ante él a través de los medios que
+estime pertinente o trasladarse al lugar de su detención para ponerlo
+en libertad. <o:p></o:p></span></p>
+      </td>
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; width: 91.5pt;"
+ valign="top" width="122">
+      <p class="MsoNormal" style="text-align: center;"
+ align="center"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX">Indirecto<o:p></o:p></span></p>
+      </td>
+    </tr>
+    <tr style="">
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; background: rgb(79, 129, 189) none repeat scroll 0%; width: 117.7pt; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"
+ valign="top" width="157">
+      <p class="MsoNormal"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: white;"
+ lang="ES-MX">El auto de vinculación a proceso<o:p></o:p></span></p>
+      </td>
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; background: rgb(216, 216, 216) none repeat scroll 0%; width: 240.7pt; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"
+ valign="top" width="321">
+      <p class="MsoNormal" style="text-align: justify;"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX">Confirmar, revocar o modificar el acto
+impugnado. En caso de que se ordene la modificación, el juez de
+control, en plenitud de funciones, emita uno nuevo.<o:p></o:p></span></p>
+      <p class="MsoNormal" style="text-align: justify;"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX"><o:p>&nbsp;</o:p></span></p>
+      </td>
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; background: rgb(216, 216, 216) none repeat scroll 0%; width: 91.5pt; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"
+ valign="top" width="122">
+      <p class="MsoNormal" style="text-align: center;"
+ align="center"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX">Indirecto<o:p></o:p></span></p>
+      </td>
+    </tr>
+    <tr style="">
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; background: rgb(79, 129, 189) none repeat scroll 0%; width: 117.7pt; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"
+ valign="top" width="157">
+      <p class="MsoNormal"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: white;"
+ lang="ES-MX">El auto que determina el <i style="">quantum
+de</i> la reparación del daño<b style=""><o:p></o:p></b></span></p>
+      <p class="MsoNormal"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: white;"
+ lang="ES-MX"><o:p>&nbsp;</o:p></span></p>
+      </td>
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; width: 240.7pt;"
+ valign="top" width="321">
+      <p class="MsoNormal" style="text-align: justify;"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX">Confirmar, revocar o modificar el acto
+impugnado. En caso de que se ordene la modificación, el juez de
+control, o tribunal de enjuiciamiento, en plenitud de funciones, emita
+uno nuevo.<o:p></o:p></span></p>
+      </td>
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; width: 91.5pt;"
+ valign="top" width="122">
+      <p class="MsoNormal" style="text-align: center;"
+ align="center"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX">Indirecto<o:p></o:p></span></p>
+      </td>
+    </tr>
+    <tr style="">
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; background: rgb(79, 129, 189) none repeat scroll 0%; width: 117.7pt; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"
+ valign="top" width="157">
+      <p class="MsoNormal"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: white;"
+ lang="ES-MX">Sustitución de medida cautelar<o:p></o:p></span></p>
+      </td>
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; background: rgb(216, 216, 216) none repeat scroll 0%; width: 240.7pt; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"
+ valign="top" width="321">
+      <p class="MsoNormal" style="text-align: justify;"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX">Confirmar, revocar o modificar el acto
+impugnado. En caso de que se ordene la modificación, el juez de
+control, o tribunal de enjuiciamiento, en plenitud de funciones, emita
+uno nuevo.<o:p></o:p></span></p>
+      <p class="MsoNormal" style="text-align: justify;"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX"><o:p>&nbsp;</o:p></span></p>
+      </td>
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; background: rgb(216, 216, 216) none repeat scroll 0%; width: 91.5pt; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"
+ valign="top" width="122">
+      <p class="MsoNormal" style="text-align: center;"
+ align="center"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX">Indirecto<o:p></o:p></span></p>
+      </td>
+    </tr>
+    <tr style="">
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; background: rgb(79, 129, 189) none repeat scroll 0%; width: 117.7pt; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"
+ valign="top" width="157">
+      <p class="MsoNormal"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: white;"
+ lang="ES-MX">La de apertura a juicio <o:p></o:p></span></p>
+      <p class="MsoNormal"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: white;"
+ lang="ES-MX"><o:p>&nbsp;</o:p></span></p>
+      </td>
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; width: 240.7pt;"
+ valign="top" width="321">
+      <p class="MsoNormal" style="text-align: justify;"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX">Confirmar, revocar o modificar el acto
+impugnado. En caso de que se ordene la modificación, el juez de
+control, en plenitud de funciones, emita uno nuevo.<o:p></o:p></span></p>
+      <p class="MsoNormal" style="text-align: justify;"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX"><o:p>&nbsp;</o:p></span></p>
+      </td>
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; width: 91.5pt;"
+ valign="top" width="122">
+      <p class="MsoNormal" style="text-align: center;"
+ align="center"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX">Indirecto<o:p></o:p></span></p>
+      </td>
+    </tr>
+    <tr style="">
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; background: rgb(79, 129, 189) none repeat scroll 0%; width: 117.7pt; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"
+ valign="top" width="157">
+      <p class="MsoNormal"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: white;"
+ lang="ES-MX">Auto que determina el sobreseimiento<o:p></o:p></span></p>
+      </td>
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; background: rgb(216, 216, 216) none repeat scroll 0%; width: 240.7pt; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"
+ valign="top" width="321">
+      <p class="MsoNormal" style="text-align: justify;"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX">Confirmar, revocar o modificar el acto
+impugnado. En caso de que se ordene la modificación, el juez de
+control, o tribunal de enjuiciamiento, en plenitud de funciones, emita
+uno nuevo.<o:p></o:p></span></p>
+      <p class="MsoNormal" style="text-align: justify;"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX"><o:p>&nbsp;</o:p></span></p>
+      </td>
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; background: rgb(216, 216, 216) none repeat scroll 0%; width: 91.5pt; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"
+ valign="top" width="122">
+      <p class="MsoNormal" style="text-align: center;"
+ align="center"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX">Indirecto<o:p></o:p></span></p>
+      </td>
+    </tr>
+    <tr style="">
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; background: rgb(79, 129, 189) none repeat scroll 0%; width: 117.7pt; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"
+ valign="top" width="157">
+      <p class="MsoNormal"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: white;"
+ lang="ES-MX">Auto que admite o desecha pruebas<o:p></o:p></span></p>
+      </td>
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; width: 240.7pt;"
+ valign="top" width="321">
+      <p class="MsoNormal" style="text-align: justify;"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX">Confirmar, revocar o modificar el acto
+impugnado. En caso de que se ordene la modificación, el juez de
+control, en plenitud de funciones, emita uno nuevo.<o:p></o:p></span></p>
+      <p class="MsoNormal" style="text-align: justify;"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX"><o:p>&nbsp;</o:p></span></p>
+      </td>
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; width: 91.5pt;"
+ valign="top" width="122">
+      <p class="MsoNormal" style="text-align: center;"
+ align="center"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX">Indirecto<o:p></o:p></span></p>
+      </td>
+    </tr>
+    <tr style="">
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; background: rgb(79, 129, 189) none repeat scroll 0%; width: 117.7pt; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"
+ valign="top" width="157">
+      <p class="MsoNormal"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: white;"
+ lang="ES-MX">Auto que determina la ilicitud de las pruebas<o:p></o:p></span></p>
+      </td>
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; background: rgb(216, 216, 216) none repeat scroll 0%; width: 240.7pt; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"
+ valign="top" width="321">
+      <p class="MsoNormal" style="text-align: justify;"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX">Confirmar, revocar o modificar el acto
+impugnado. En caso de que se ordene la modificación, el juez de
+control, o tribunal de enjuiciamiento, en plenitud de funciones, emita
+uno nuevo.<o:p></o:p></span></p>
+      <p class="MsoNormal" style="text-align: justify;"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX"><o:p>&nbsp;</o:p></span></p>
+      </td>
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; background: rgb(216, 216, 216) none repeat scroll 0%; width: 91.5pt; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"
+ valign="top" width="122">
+      <p class="MsoNormal" style="text-align: center;"
+ align="center"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX">Indirecto<o:p></o:p></span></p>
+      </td>
+    </tr>
+    <tr style="">
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; background: rgb(79, 129, 189) none repeat scroll 0%; width: 117.7pt; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"
+ valign="top" width="157">
+      <p class="MsoNormal"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: white;"
+ lang="ES-MX">Auto que determina la corrección de vicios
+formales<o:p></o:p></span></p>
+      </td>
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; width: 240.7pt;"
+ valign="top" width="321">
+      <p class="MsoNormal" style="text-align: justify;"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX">Confirmar, revocar o modificar el acto
+impugnado. En caso de que se ordene la modificación, el juez de
+control, en plenitud de funciones, emita uno nuevo.<o:p></o:p></span></p>
+      </td>
+      <td
+ style="border: medium none ; padding: 0cm 5.4pt; width: 91.5pt;"
+ valign="top" width="122">
+      <p class="MsoNormal" style="text-align: center;"
+ align="center"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX">Indirecto<o:p></o:p></span></p>
+      </td>
+    </tr>
+    <tr style="">
+      <td
+ style="border-style: none none solid; border-color: -moz-use-text-color -moz-use-text-color windowtext; border-width: medium medium 2.25pt; padding: 0cm 5.4pt; background: rgb(79, 129, 189) none repeat scroll 0%; width: 117.7pt; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"
+ valign="top" width="157">
+      <p class="MsoNormal"><b style=""><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: white;"
+ lang="ES-MX"><o:p>&nbsp;</o:p></span></b></p>
+      <p class="MsoNormal"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: white;"
+ lang="ES-MX">Auto que rechace a los acuerdos probatorios<o:p></o:p></span></p>
+      </td>
+      <td
+ style="border-style: none none solid; border-color: -moz-use-text-color -moz-use-text-color windowtext; border-width: medium medium 2.25pt; padding: 0cm 5.4pt; background: rgb(216, 216, 216) none repeat scroll 0%; width: 240.7pt; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"
+ valign="top" width="321">
+      <p class="MsoNormal" style="text-align: justify;"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX">Confirmar, revocar o modificar el acto
+impugnado. En caso de que se ordene la modificación, el juez de
+control, en plenitud de funciones, emita uno nuevo.<o:p></o:p></span></p>
+      </td>
+      <td
+ style="border-style: none none solid; border-color: -moz-use-text-color -moz-use-text-color windowtext; border-width: medium medium 2.25pt; padding: 0cm 5.4pt; background: rgb(216, 216, 216) none repeat scroll 0%; width: 91.5pt; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;"
+ valign="top" width="122">
+      <p class="MsoNormal" style="text-align: center;"
+ align="center"><span
+ style="font-size: 11pt; font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;;"
+ lang="ES-MX">Indirecto<o:p></o:p></span></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+ 
+Recuerde que...
+Usted ya estudió la materia Amparo, en donde se le explican todas las premisas fundamentales, etapas procesales, recursos, reglas procesales y autoridades competentes. Por lo que es importante que tenga presente que, generalmente, los efectos del amparo son los mismos, pero en lo particular, cuando se impugnan cuestiones que no son sentencias definitivas, sus efectos pueden ser otros. El error que se comete a menudo es creer que el amparo sólo se interpone al final, en contra de la sentencia definitiva y, por lo mismo, desconocen los efectos del amparo directo e indirecto penal. De aquí que sea importante conocer cuáles son esos efectos.
+
+ 
+Como puede advertirse, el juicio de amparo se puede interponer antes, durante y después (ejecución de sentencia) del procedimiento penal. De esta forma, en la tabla Efectos de las ejecutorias del juicio de amparo, pudo percatarse que dependiendo del acto impugnado será el tipo de amparo que debe interponerse, por lo mismo, sus efectos pueden ser diferentes, es decir, tratándose de un amparo indirecto, si el acto impugnado es orden de traslado del quejoso de un centro penitenciario a otro, sus efectos son que el traslado no se lleve a cabo, pero si el acto impugnado afecta la libertad personal del quejoso y se encuentre a disposición del Ministerio Público por cumplimiento de orden de detención, sus efectos son que el imputado dentro del término de 48 horas o en un plazo de 96, tratándose de delincuencia organizada, contadas a partir del momento de la detención, sea puesto en libertad o consignado ante el juez penal correspondiente.
+
+Por lo tanto, no debe generalizar los efectos del juicio de amparo indirecto penal, ya que, dependiendo del acto impugnado, pueden no ser los mismos. De aquí, la utilidad de la tabla Efectos de las ejecutorias del juicio de amparo, si sabe utilizarla durante la defensa de los intereses de su cliente, usted desde este momento puede saber qué tipo de amparo debe interponer y cuáles serían sus efectos.
+
+Con toda la información analizada hasta este momento, podemos sostener que, en términos generales, los efectos de la concesión del amparo serán:
+
+ 
+La Ley establece…
+“I. Cuando el acto reclamado sea de carácter positivo se restituirá al quejoso en el pleno goce del derecho violado, restableciendo las cosas al estado que guardaban antes de la violación; y
+
+II. Cuando el acto reclamado sea de carácter negativo o implique una omisión, obligar a la autoridad responsable a respetar el derecho de que se trate y a cumplir lo que el mismo exija” (LA, art. 77).
+
+ 
+Es importante señalar que el juzgador deberá determinar con precisión cuáles son los efectos de la sentencia de amparo que concede el amparo y protección de la justicia federal, especificando en el último, considerando las medidas que las autoridades o particulares deban adoptar para asegurar su estricto cumplimiento y la restitución del quejoso en el goce del derecho.
+
+ 
+¡Importante!
+En asuntos del orden penal en que se reclame una orden de aprehensión o auto de vinculación a proceso en delitos que la ley no considere como graves, la sentencia que conceda el amparo surtirá efectos inmediatos, sin perjuicio de que pueda ser revocada mediante el recurso de revisión; salvo que se reclame el auto de vinculación a proceso y el amparo se conceda por vicios formales.
+
+En caso de que el efecto de la sentencia sea la libertad del quejoso, ésta se decretará bajo las medidas de aseguramiento que el órgano jurisdiccional estime necesarias, a fin de que el quejoso no evada la acción de la justicia. En todo caso, la sentencia surtirá sus efectos, cuando se declare ejecutoriada o cause estado por ministerio de ley.
+ 
+De las ejecutorias en el juicio de amparo en el procedimiento penal
+
+Debemos estudiar el cumplimiento de las sentencias de amparo que conceden el amparo y protección de la justicia federal. En este sentido, para que sea exigible el cumplimiento de una sentencia, es necesario que se cubran dos requisitos:
+
+Que en la sentencia se conceda el amparo y protección de la justicia federal; y
+Que la sentencia haya causado ejecutoria.
+Ahora bien, resulta trascedente establecer que dentro del juicio de amparo se abren dos expedientes de manera simultánea: el expediente principal y el expediente del incidente de suspensión del acto reclamado.
+
+En virtud de lo anterior, podemos distinguir dos tipos de sentencias: en el expediente principal y del incidente de suspensión del acto reclamado. A estas resoluciones judiciales se les pueden interponer recursos. No obstante, si llegan a causar ejecutoria, son susceptibles de hacer cumplir mediante diferentes procedimientos. Veamos cada uno de ellos.
+
+ Pulse en cada una de las pestañas para ver la información correspondiente.
+ 
+I Recurso de inconformidad
+
+Procede contra la sentencia dictada en el expediente principal, se encuentra regulado por el artículo 201 de la Ley de Amparo, su importancia radica en el hecho de que se garantiza el derecho fundamental de seguridad jurídica, ya que se tiene la certeza de que si una autoridad no cumple en los términos y condiciones señaladas en la sentencia de amparo, el gobernado tiene la posibilidad de hacerla cumplir por medio de este recurso. Es tal la importancia de este recurso, que el trámite de éste se hace ante la Suprema Corte de Justicia de la Nación, de tal manera que, de comprobarse el incumplimiento a la sentencia de amparo, podría dar lugar a la configuración de un delito, genéricamente conocido como desacato judicial. En este caso, suponiendo que se tratara de una sentencia que resuelve dejar en inmediata libertad al sentenciado por faltas al debido proceso, lo ideal es promover este recurso, a fin de que su cliente quede en libertad.
+
+II Incidente de cumplimiento sustituto
+
+Procede contra la sentencia dictada en el expediente principal, se encuentra regulado por el artículo 204 de la Ley de Amparo, tiene por efecto que la ejecutoria se dé por cumplida mediante el pago de los daños y perjuicios al quejoso. Este incidente puede ser solicitado por cualquiera de las partes o decretado de oficio por la Suprema Corte de Justicia de la Nación, en los casos en que la ejecución de la sentencia afecte gravemente a la sociedad en mayor proporción a los beneficios que pudiera obtener el quejoso o, en su caso, por las circunstancias materiales del caso, sea imposible o desproporcionadamente gravoso restituir las cosas a la situación que guardaban con anterioridad al juicio, por ejemplo, si la sentencia ordena la libertad inmediata de un sentenciado, pero este último pierde la vida en el centro de reinserción social antes de que se dicte la sentencia de amparo, sus familiares pueden iniciar con el incidente de cumplimiento sustituto, debido a que es imposible dar cumplimiento a la sentencia.
+
+La solicitud podrá presentarse, según corresponda, ante la Suprema Corte de Justicia de la Nación o por conducto del órgano jurisdiccional a partir del momento en que cause ejecutoria la sentencia.
+
+III Incidente por exceso o defecto en el cumplimiento de la suspensión
+
+Procede contra la sentencia dictada en el expediente de suspensión del acto reclamado. Se tramita durante el juicio, una vez que el órgano jurisdiccional ha otorgado la suspensión del acto reclamado, ya sea de manera provisional o definitiva. Procede en contra de las autoridades responsables, por cualquier persona que resulte agraviada por el incumplimiento de la suspensión, sea de plano o definitiva, por exceso o defecto en su ejecución o por admitir, con notoria mala fe o negligencia inexcusable, fianza o contrafianza que resulte ilusoria o insuficiente. Este incidente podrá promoverse en cualquier tiempo, mientras no cause ejecutoria la resolución que se dicte en el juicio de amparo.
+
+El incidente debe interponerse ante el juez de distrito o el tribunal unitario de circuito, si se trata de la suspensión concedida en amparo indirecto y ante el presidente del tribunal colegiado de circuito, si la suspensión fue concedida en amparo directo.
+
+IV Denuncia por incumplimiento de la declaratoria general de inconstitucionalidad
+
+Procede contra la sentencia dictada en el expediente principal. Este procedimiento debe iniciarse si, con posterioridad a la entrada en vigor de la declaratoria general de inconstitucionalidad, se aplica la norma general inconstitucional. La denuncia se hará ante el juez de distrito que tenga jurisdicción en el lugar donde el acto deba tener ejecución, trate de ejecutarse, se esté ejecutando o se haya ejecutado.
+
+ 
+Como podemos advertir hasta este momento, ser un abogado defensor, Ministerio Público, o, en su caso, asesor jurídico, representa una gran responsabilidad que va acompañada de una sólida formación profesional en materia penal, lo que implica saber utilizar el Código Nacional de Procedimientos Penales, leyes orgánicas de las procuradurías generales de justicia, protocolos de actuación, acuerdos, Ley de Amparo y tratados internacionales.
+
+ Pulse en el botón para ver las Fuentes de consulta.
+
+ Fuentes de consulta
