@@ -2404,7 +2404,7 @@ De conformidad con el artículo 170 de la Ley de Amparo, el juicio de amparo dir
 
 Para que proceda el Juicio de Amparo Directo es necesario que, previamente, se hayan agotado los recursos ordinarios que se establezcan en el Código Nacional de Procedimientos Penales. Cabe precisar, que cuando se afirma que deben agotarse todos los recursos ordinarios para la procedencia del Juicio de Amparo Directo, estamos haciendo alusión, al principio de definitividad, que gráficamente se ve representado de la siguiente manera:
 
- ![M](img_flecha01.png)
+ ![M](pff/img_flecha01.png)
 
  
 Ahora que sabemos que el amparo directo es un medio de control de la constitucionalidad, legalidad, y convencionalidad, tenemos que profundizar lo relativo al control de la legalidad, ya que en su vida profesional se va a encontrar que si la autoridad jurisdiccional de primera instancia viola normas del procedimiento, puede traer como consecuencia la libertad del imputado.
