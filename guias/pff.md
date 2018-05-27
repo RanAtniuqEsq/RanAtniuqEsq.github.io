@@ -1395,36 +1395,47 @@ Veamos a continuación, de manera gráfica, cuando el juicio de amparo se consid
  
 
 Variable: No ejercicio de la acción penal
+
 ![m](1_.PNG)
 
 Variable: Reserva de la acción penal
+
 ![m](2__.PNG)
 
 Variable: Auto de vinculación a proceso
+
 ![m](3_.PNG)
 
 Variable: Auto que determina las medidas cautelares
+
 ![m](4_.PNG)
 
 Variable: Criterio de oportunidad
+
 ![m](5_.PNG)
 
 Variable: Acuerdo reparatorio
+
 ![m](6_.PNG)
 
 Variable: Actos realizados en la etapa de investigación
+
 ![m](7_.PNG)
 
 Variable: Actos realizados en la etapa de intermedia
+
 ![m](8_.PNG)
 
 Variable: Actos realizados en la etapa de juicio
+
 ![m](9_.PNG)
 
 Variable: Actos realizados en la etapa de ejecución de la sentencia
+
 ![m](10_.PNG)
 
 Variable: Sentencias definitivas
+
 ![m](11_.PNG)
  
 Como pudo darse cuenta, si se trata de una sentencia definitiva dictada por el tribunal de alzada, el juicio de amparo es un recurso extraordinario. Cabe precisar que cuando se dice tribunal de alzada se hace referencia a las salas penales del Poder Judicial del Fuero Común, si el delito se encuentra contemplado por el Código Penal para el Distrito Federal o de la entidad federativa, según sea el caso; y si se trata de un delito previsto por el Código Penal Federal, entonces, el tribunal de alzada es el tribunal unitario de circuito del Poder Judicial de la Federación.
