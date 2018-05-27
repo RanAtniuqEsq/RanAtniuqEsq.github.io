@@ -358,9 +358,304 @@ Unidad 2. La Apelación
 
 2.6. Facultades del tribunal ad quem
 
+¿Qué es la apelación?
+
+En asignaturas como Teoría General del Proceso, Derecho Procesal Civil, Derecho Procesal Mercantil, seguramente ya ha estudiado qué es la apelación y qué función tiene en cada materia. Sin embargo, en materia penal tiene características diferentes que lo hacen único, es por ello que iniciaremos con tres definiciones: la etimológica, la de Colín Sánchez y la de Rivera Silva, para concluir con una definición que retomaremos en esta asignatura.
+
  
+La apelación 
+-
+
+|Etimología | Colín Sánchez | Rivera Silva| 
+|---|---|---| 
+| |Medio de impugnación ordinario. | Recurso ordinario y devolutivo.| 
+|Proviene del latín appellatio: “reclamación, petición” |A través de la apelación, el Ministerio Público, el procesado, el acusado o sentenciado, el defensor, la víctima u ofendido, manifiesta su inconformidad con la resolución judicial que se le ha dado a conocer.| En virtud del cual un tribunal de segunda instancia, confirma, revoca o modifica una resolución impugnada. (Riviera Silva, 2009: 333).
+| |Con lo anterior, origina que un tribunal distinto y de superior jerarquía, previo estudio de lo que se consideran agravios, dicte nueva resolución judicial. | |
  
+¿Por qué es importante el recurso de apelación?
+
+Barragán y Salvatierra plantea que la finalidad del recurso de apelación es la reparación de las violaciones legales cometidas que sólo es posible lograr a través de la modificación o revocación de la resolución impugnada, para lo cual deberá dictarse otra que resuelva lo procedente (Barragán y Salvatierra: 2009, 653).
+
+Derivado de lo anterior, para el estudio de esta asignatura definiremos la apelación como…
+
  
+Definamos...
+Recurso ordinario, que puede tener los siguientes efectos: adhesivo, suspensivo y devolutivo. Tiene como función la confirmación, modificación, revocación de la resolución impugnada, la incorporación de un medio de prueba indebidamente excluido y, en su caso, la reposición del acto que dio lugar a ésta.
+
+Efectos del recurso de apelación
+
+Es importante que, como abogado defensor, Ministerio Público, asesor jurídico e, inclusive, juez de control o miembro del tribunal de enjuiciamiento, tenga claro cuáles son los efectos de la apelación, ya que, en caso contrario, se corre el riesgo de que no se cumpla con el objetivo previsto por el artículo 2 del Código Nacional de Procedimientos Penales: “esclarecer los hechos, proteger al inocente, procurar que el culpable no quede impune y que se repare el daño”.
+
+Si aún no ha logrado dimensionar la importancia de este tema, basta con que usted mismo responda a la siguiente pregunta:
+
  
+Reflexión...
+¿Qué consecuencia jurídica trae aparejada, si el juez de control no suspende procedimiento cuando el abogado defensor interpuso la apelación por exclusión de pruebas?
+
  
+La respuesta se encuentra en el artículo 113, fracción X, del Código Nacional de Procedimientos Penales. Si aún no ha consultado dicho artículo o no ha podido encontrar la respuesta, es necesario que tenga presente que la única consecuencia jurídica segura es que se va a reponer el procedimiento desde la etapa en que se haya cometido la violación procesal.
+
+Asimismo, al tomar en consideración que, conforme a dicho artículo, el imputado tiene derecho a ser juzgado en audiencia por un tribunal de enjuiciamiento, antes de cuatro meses si se tratare de delitos cuya pena máxima no exceda de dos años de prisión y antes de un año, si la pena excediera ese tiempo y si el juez de control abriera el proceso a juicio, lo único que se va a conseguir es que, al rebasar los cuatro meses o el año para ser juzgado, el abogado defensor solicite la libertad de su cliente (imputado) por no ser juzgado en el tiempo que marca el Código Nacional de Procedimientos Penales, es decir, no se van a esclarecer los hechos ni se va a proteger al inocente, mucho menos se va a procurar que el culpable no quede impune, no se repara el daño por una simple razón: el abogado defensor no solicitó un plazo mayor para su defensa.
+
+Para saber qué tipo de efecto tiene la apelación, es necesario recurrir a los artículos 471, 472, y 473, del Código Nacional de Procedimientos Penales.
+
+ Pulse en las áreas que se marcan como sensibles para visualizar la información.
+
+
+
+
+EFECTOS DEL RECURSO DE APELACIÓN
+-
  
+Devolutivo
+
+El efecto devolutivo se refiere a que el recurso de apelación va a resolverse por el tribunal de alzada (tribunal ad quem), lo que implica que es un tribunal distinto y superior al que ha dictado la resolución judicial impugnada, sin que este efecto impida se ejecute la resolución recurrida.
+
+Adhesivo
+
+
+El efecto adhesivo de la apelación se refiere a que la persona que tenga derecho a interponer el recurso se puede adherir dentro del término de tres días, contados a partir de recibido el traslado, al recurso interpuesto por cualquiera de las otras partes.
+
+Suspensivo
+
+
+El efecto suspensivo del recurso de apelación se refiere a que impide que la resolución impugnada pueda ser ejecutada por exclusión de pruebas, en tanto no haya causado ejecutoria, lo que implica que el procedimiento penal se suspende hasta en tanto el tribunal de alzada resuelva el recurso.
+   
+ 
+Por regla general, la interposición de este recurso no suspende la ejecución de la resolución judicial impugnada, es decir, sólo tiene el efecto devolutivo.
+
+No obstante, en el caso de la apelación contra la exclusión de pruebas, la interposición del recurso tendrá como efecto inmediato suspender el plazo de remisión del auto de apertura de juicio al tribunal de enjuiciamiento, en atención a lo que resuelva el tribunal de alzada (tribunal ad quem-sala penal) competente, es decir, tratándose de la exclusión de un medio de prueba, la apelación tiene tanto el efecto devolutivo como suspensivo, lo cual es lógico, ya que en el supuesto de que se continuara con el procedimiento penal, implicaría una seria violación al derecho fundamental de adecuada defensa, dando lugar a la reposición del procedimiento. Tal y como se encuentra previsto en el artículo 482, fracción III, del Código Nacional de Procedimientos Penales.
+
+Ahora bien, de acuerdo con el artículo 479 del Código Nacional de Procedimientos Penales, la función de la apelación es:
+
+ 
+La Ley establece…
+Confirmar, modificar o revocar la resolución impugnada, o bien ordenar la reposición del acto que dio lugar a ésta o, en su caso, incluir el medio de prueba indebidamente excluido (CNPP).
+
+Requisitos de procedibilidad
+
+Los requisitos de procedibilidad se refieren a todas aquellas condiciones necesarias para que el recurso de apelación sea procedente y, por tanto, el tribunal ad quem pueda resolver sobre la resolución impugnada.
+
+En este sentido, los requisitos de procedibilidad previstos por el Código Nacional de Procedimientos Penales son los siguientes:
+
+ Pulse en las áreas que se marcan como sensibles para visualizar la información.
+
+Formalidades
+-
+
+Se debe interponer por escrito ante el mismo juez que dictó la resolución, señalando el domicilio para que pueda ser notificado. Cabe precisar que si el tribunal ad quem se encuentra en un lugar distinto al domicilio donde se está llevando el proceso, el imputado tiene la obligación de señalar nuevo domicilio ubicado en la jurisdicción del tribunal ad quem.
+
+
+Para evitar que le notifiquen por medio de los estrados y por ello se le venzan términos, el Código Nacional permite que señale un medio para que pueda ser notificado, este medio puede ser correo electrónico, teléfono, o cualquier otro medio que le permita al juez de control o tribunal ad quem notificarle una resolución judicial.
+
+
+En el escrito de apelación se debe expresar los agravios; asimismo, exhibir una copia para el registro y una copia de traslado para cada una de las partes. En el supuesto de que falten copias, se le requerirá al promovente para que presente las omitidas dentro del término de 24 horas. En caso de que no las exhiba, el órgano jurisdiccional las tramitará e impondrá al promovente multa de 10 a 150 días de salario, excepto cuando éste sea el imputado o la víctima u ofendido.
+
+
+Una vez admitida la apelación, el órgano jurisdiccional le correrá traslado de éste a las partes para que se pronuncien en un plazo de tres días respecto de los agravios expuestos y señalen domicilio o medios para que pueda ser legalmente notificado.
+
+
+Al interponer el recurso, al contestarlo o al adherirse a él, los interesados podrán manifestar en su escrito su deseo de exponer oralmente alegatos aclaratorios sobre los agravios ante el tribunal de alzada.
+
+Tiempo
+-
+
+
+Existen diferentes plazos para interponer el recurso de apelación, todo dependerá de la materia de la resolución impugnada. De esta manera, tenemos que:
+
+
+•	Tratándose de auto o cualquier otra providencia, el término para interponer el recurso es dentro de los tres días contados a partir de que surta efectos la notificación.
+
+
+•	Tratándose de sentencia definitiva, dictada por el juez de control, se debe interponer dentro de los cinco días, a partir de que surta efectos la notificación, es decir, de sentencias definitivas dictadas en los procedimientos abreviados y procedimientos diversos.
+
+
+•	Cuando la materia de la apelación sea el desistimiento de la acción penal por el Ministerio Público se interpondrá ante el tribunal de enjuiciamiento que dictó la resolución dentro de los tres días contados a partir de que surte efectos la notificación.
+
+
+•	Tratándose de sentencias definitivas dictadas por el tribunal de enjuiciamiento se interpondrá dentro de los diez días siguientes a la notificación de la resolución impugnada.
+
+Legitimación procesal
+-
+
+
+Se refiere a los sujetos procesales que tienen derecho subjetivo a recurrir la resolución judicial impugnada. De esta forma, tenemos que el derecho de interponer el recurso de apelación le corresponde únicamente a quien le sea expresamente otorgado y pueda resultar afectado por la resolución. Dando lugar, por una parte, a la víctima u ofendido, por propio derecho, o por medio de su asesor jurídico, o del Ministerio Público y, por otra, al imputado, por propio derecho o por medio de su defensor.
+
+
+Asimismo, la víctima u ofendido, aunque no se haya constituido como coadyuvante, podrá impugnar por sí o a través del Ministerio Público, las siguientes resoluciones: las que versen sobre la reparación del daño causado por el delito, cuando estime que hubiere resultado perjudicado por ésta; las que pongan fin al proceso; y las que se produzcan en la audiencia de juicio, sólo si en este último caso hubiere participado en ella.
+
+### Resoluciones judiciales apelables
+
+La autoridad judicial pronunciará sus resoluciones en forma de sentencias y autos. Dictará sentencia para decidir en definitiva y poner término al procedimiento y un auto en todos los demás casos.
+
+Es por ello que la apelación se puede interponer desde la etapa de investigación hasta la de juicio, en contra de las resoluciones judiciales. De aquí que surge la necesidad de diferenciar dos supuestos:
+
+| En las etapas de investigación e intermedia	 | En la etapa de juicio|
+|---|---|
+|Las resoluciones judiciales apelables son los autos, los cuales son dictados por el juez de control.| La resolución judicial apelable es la sentencia definitiva, la cual es emitida por el tribunal de enjuiciamiento.|
+ 
+Ahora bien, conforme al artículo 467 del Código Nacional de Procedimientos Penales, las únicas resoluciones de juez de control apelables son:
+
+ 
+La Ley establece…
+ 
+
+Las que nieguen el anticipo de prueba;
+Las que nieguen la posibilidad de celebrar acuerdos reparatorios o no los ratifiquen;
+La negativa o cancelación de orden de aprehensión;
+La negativa de orden de cateo;
+Las que se pronuncien sobre las providencias precautorias o medidas cautelares;
+Las que pongan término al procedimiento o lo suspendan;
+El auto que resuelve la vinculación del imputado a proceso;
+Las que concedan, nieguen o revoquen la suspensión condicional del proceso;
+La negativa de abrir el procedimiento abreviado;
+La sentencia definitiva dictada en el procedimiento abreviado, o
+Las que excluyan algún medio de prueba (CNPP, art. 467).
+ 
+Por otra parte, conforme al artículo 468 del Código Nacional de Procedimientos Penales, las resoluciones dictadas por el Tribunal de enjuiciamiento, que son materia de la apelación, sólo son:
+
+ 
+La Ley establece…
+Las que versen sobre el desistimiento de la acción penal por el Ministerio Público;
+La sentencia definitiva en relación con aquellas consideraciones contenidas en ésta, distintas a la valoración de la prueba, siempre y cuando no comprometan el principio de inmediación, o bien aquellos actos que impliquen una violación grave del debido proceso (CNPP, art. 468).
+ 
+De esta forma, lo que debemos destacar de la nueva configuración de la apelación en el sistema acusatorio y oral es que, como sostiene Barragán y Salvatierra, “el objetivo del recurso de la apelación es la reparación de violaciones legales” (Barragán y Salvatierra, 2009: 653), precisando que no se pueden alegar cuestiones relativas a la valoración de la prueba, ya que esto implicaría una seria violación a un principio fundamental del sistema penal acusatorio y oral, que es el principio de inmediación.
+
+Con base en el principio de inmediación, sólo el tribunal de enjuiciamiento es el único órgano jurisdiccional que estuvo presente a la hora del desahogo de las diversas pruebas y, por tanto, son las únicas autoridades judiciales que pueden valorar la prueba, que les servirá para dictar la sentencia definitiva.
+
+Inadmisibilidad del recurso de apelación
+
+El recurso de apelación no procede cuando se trate de los siguientes casos:
+
+Cuando haya sido interpuesto fuera del plazo;
+Cuando se deduzca en contra de resolución que no sea impugnable por medio de apelación;
+Cuando lo interponga persona no legitimada para ello;
+Cuando el escrito de interposición carezca de fundamentos de agravio o de peticiones concretas.
+De esta forma, si el recurso de apelación no cumple con las formalidades requeridas, no cumple con el plazo, no tiene legitimación o no sean materia del recurso, el  tribunal de alzada (sala penal) puede desecharlo, sin necesidad de prevenir a la parte recurrente para subsanar el error en el que haya incurrido.
+
+La consecuencia jurídica que trae aparejada la no admisión del recurso de apelación es que la resolución judicial impugnada queda firme, es decir, ha causado ejecutoria, por no haberse interpuesto el recurso pertinente. Aunado a esto, puede dar lugar a un procedimiento administrativo de responsabilidad administrativa, tratándose del Ministerio Público, asesor público, o defensor de oficio.
+
+ 
+Reflexión...
+Hasta este momento, sabemos que ya no se pueden formular agravios sobre la violación a los principios reguladores de la valoración de las pruebas. Ante tal situación, reflexione ¿cuál es la utilidad de la apelación?
+
+ 
+ Los agravios, concepto y utilidad de la apelación
+
+En general, durante el proceso penal, los actos, omisiones o resoluciones dictados por el Ministerio Público, juez de control o tribunal de enjuiciamiento suelen causar un daño o perjuicio a una de las partes.
+
+De esta forma, la parte agraviada considera que sufre una afectación a su persona o a su esfera jurídica y, por lo mismo, interpondrá algún medio de impugnación o recurso, a fin de que dicho daño no trascienda.
+
+Recordemos que cualquier acto, omisión o resolución que no se impugne se considerará como consentido. En virtud de lo anterior, es importante señalar que los agravios tienen el objetivo procesal de fijar los límites sobre los que versará la sentencia.
+
+ 
+
+ 
+
+(2) Agravio
+
+Por ejemplo...
+Si el Ministerio Público tarda más de 48 horas en judicializar una carpeta de investigación y usted, como abogado defensor no lo impugna, y el juez de control no se percata de esa situación, entonces a su cliente se le vinculará al proceso, aun cuando, constitucional y procesalmente, debería ser dejado en libertad.
+
+ 
+
+Veamos gráficamente el ejemplo:
+
+ 
+ Pulse sobre el esquema para ampliar. Vuelva a pulsar para regresar al tamaño original.
+
+ 
+
+
+
+Atendiendo a todo lo anterior, es importante definir el concepto de agravio.
+
+ 
+
+El autor dice
+
+Carlos Barragán y Salvatierra
+
+El jurista Barragán y Salvatierra sostiene que un agravio es todo daño o lesión que sufre una persona por violación a la ley en la resolución judicial (Barragán y Salvatierra: 2009, 658).
+
+ 
+
+ 
+En términos prácticos, el Segundo Tribunal Colegiado de Circuito del Centro Auxiliar de la Quinta Región del Poder Judicial de la Federación sostiene que los elementos de la causa petendi (causa de pedir), “se compone de un hecho y un razonamiento con el que se explique la ilegalidad aducida” (Tesis aislada común, (V Región) 2o.1 K [10a.]).
+
+De esta forma, la causa de pedir se ve materializada en el agravio, en el cual se debe exponer, razonadamente, por qué estiman ilegal la resolución impugnada.
+
+Revisemos a continuación lo que nos dicen algunas tesis aisladas y jurisprudenciales respecto al agravio y al razonamiento jurídico
+
+
+Interpretación de la Ley…
+El agravio presupone un razonamiento jurídico, a su vez, este “razonamiento jurídico presupone algún problema o cuestión al cual, mediante las distintas formas interpretativas o argumentativas que proporciona la lógica formal, material o pragmática, se alcanza una respuesta a partir de inferencias obtenidas de las premisas o juicios dados (hechos y fundamento)” (tesis aislada común, (V Región) 2o.1 K [10a.]).
+
+Interpretación de la Ley…
+Un agravio es “un razonamiento” que “se traduce a la mínima necesidad de explicar por qué o cómo el acto reclamado, o la resolución recurrida se aparta del derecho, a través de la confrontación de las situaciones fácticas concretas frente a la norma aplicable (de modo tal que evidencie la violación) y la propuesta de solución o conclusión sacada de la conexión entre aquellas premisas (hecho y fundamento)” (Jurisprudencia común, (V Región) 2o. J/1 [10a.]).
+
+Interpretación de la ley
+“Independientemente del modelo argumentativo que se utilice”, un razonamiento jurídico “se traduce a la mínima necesidad de explicar por qué o cómo el acto reclamado, o la resolución recurrida se aparta del derecho, a través de la confrontación de las situaciones fácticas concretas frente a la norma aplicable (de modo tal que evidencie la violación), y la propuesta de solución o conclusión sacada de la conexión entre aquellas premisas (hecho y fundamento)” (Tesis aislada común, (V Región) 2o.1 K [10a.]).
+
+La utilidad de los agravios radica en el hecho de que con base en ellos se puede obtener:
+
+Una modificación
+Revocación de la resolución impugnada
+La incorporación de un medio de prueba indebidamente excluido
+Se puede reponer el procedimiento
+De esta forma, los agravios que componen el recurso de apelación versarán sobre el debido proceso, exacta aplicación de la ley penal, individualización de la pena.
+
+Cabe precisar que, debido a que el principio de inmediación, se refiere a que toda audiencia se desarrollará íntegramente en presencia del órgano jurisdiccional, implica que el desahogo de las pruebas se llevará a cabo en la audiencia de debate de juicio ante la presencia del tribunal de enjuiciamiento, por lo que no se pueden esgrimir agravios contra la valoración de las pruebas.
+
+ 
+¡Importante!
+Como una máxima jurídica que usted debe considerar como profesional del derecho, es que si una sentencia definitiva no se apela, entonces, ésta adquiere el estatus procesal de sentencia ejecutoriada, es decir, que ya no admite recurso alguno.
+
+De lo anterior, que la utilidad de la apelación radica en el hecho de que si no se interpone, el sujeto procesal afectado se queda sin la posibilidad de iniciar el juicio de amparo, ya que, con base en el principio de definitividad, si una sentencia no es apelada, trae aparejada, como consecuencia inmediata, que no sea posible interponer el juicio de amparo.
+
+Facultades del tribunal ad quem
+
+Una vez que los plazos para interponer la apelación han concluido, el órgano jurisdiccional enviará los registros correspondientes al tribunal de alzada que deba conocer de éste.
+
+Es aquí cuando aparece la primera facultad del tribunal ad quem, es decir, el pronunciamiento sobre la admisión del recurso de apelación.
+
+Es importante señalar que si al interponer el recurso, al contestarlo o al adherirse a él, alguno de los interesados manifiesta en su escrito su deseo de exponer oralmente alegatos aclaratorios sobre los agravios, el tribunal ad quem (sala penal) decretará lugar y fecha para la celebración de la audiencia, la que deberá tener lugar dentro de los cinco y 15 días después de que venza el término para la adhesión.
+
+ 
+
+ 
+
+(3) Tribunal de alzada
+
+ 
+De esta manera, el tribunal de alzada citará a audiencia de alegatos para la celebración de la audiencia para que las partes expongan oralmente sus alegatos aclaratorios sobre agravios, la que deberá tener lugar dentro de los cinco días después de admitido el recurso.
+
+Una vez abierta la audiencia, se concederá la palabra a la parte recurrente para que exponga sus alegatos aclaratorios sobre los agravios manifestados por escrito, sin que pueda plantear nuevos conceptos de agravio.
+
+Ahora bien, el tribunal ad quem tiene la facultad de dictar sentencia sobre el recurso de apelación, ya sea en la misma audiencia o por escrito dentro de los tres días siguientes a la celebración de ésta.
+
+ 
+Recuerde que...
+No existen agravios sobre la valoración de la prueba y, por lo tanto, la sentencia que se emita podrá confirmar, modificar o revocar la resolución impugnada o, en su caso, ordenará la reposición del acto o procedimiento.
+
+ 
+De esta forma, conforme al artículo 483 del Código Nacional de Procedimientos Penales, la sentencia se modificará o revocará cuando la causa de nulidad de ésta sea la transgresión a una norma de fondo que implique una violación a un derecho fundamental. Sin embargo, si ello compromete el principio de inmediación, ordenará la reposición del juicio.
+
+ Ahora bien, conforme al artículo 482 del Código Nacional de Procedimientos Penales, la reposición del procedimiento se puede efectuar cuando el recurso de apelación se interpone por violaciones graves al debido proceso, siempre y cuando se actualice uno de los siguientes supuestos:
+
+ 
+La Ley establece…
+Cuando en la tramitación de la audiencia de juicio oral o en el dictado de la sentencia se hubieren infringido derechos fundamentales asegurados por la Constitución, las leyes que de ella emanen y los tratados;
+Cuando no se desahoguen las pruebas que fueron admitidas legalmente, o no se desahoguen conforme a las disposiciones previstas en este Código;
+ Cuando si se hubiere violado el derecho de defensa adecuada o de contradicción siempre y cuando trascienda en la valoración del tribunal de enjuiciamiento y que cause perjuicio;
+Cuando la audiencia del juicio hubiere tenido lugar en ausencia de alguna de las personas cuya presencia continuada se exija bajo sanción de nulidad;
+Cuando en el juicio oral hubieren sido violadas las disposiciones establecidas por este código sobre publicidad, oralidad y concentración del juicio, siempre que se vulneren derechos de las partes, o
+Cuando la sentencia hubiere sido pronunciada por un tribunal de enjuiciamiento incompetente o que, en los términos de este código, no garantice su imparcialidad (CNPP, art. 482).
+ 
+De lo anterior, tenemos que identificar dos tipos de reposición de procedimiento: total, y parcial. Los efectos jurídicos de cada una son diferentes, ya que, la reposición total de la audiencia de juicio deberá realizarse íntegramente ante un tribunal de enjuiciamiento distinto. Tratándose de la reposición parcial, el tribunal de alzada determinará si es posible su realización ante el mismo órgano jurisdiccional u otro distinto, tomando en cuenta la garantía de la inmediación y el principio de objetividad del órgano jurisdiccional, establecidos en las fracciones II y IV del apartado A, del artículo 20 de la Constitución y el artículo 9 del Código Nacional de Procedimientos Penales.
+
+Por último, es de suma importancia señalar, que conforme al artículo 484 del Código Nacional de Procedimientos Penales, el tribunal ad quem tiene la facultad de recibir y desahogar los medios de prueba que ofrezcan las partes, siempre y cuando éstas sean indispensables para sustentar el agravio que se formula.
+
+ Pulse en el botón para ver las Fuentes de consulta
+
+ Fuentes de consulta
