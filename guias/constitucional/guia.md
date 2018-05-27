@@ -61,6 +61,7 @@ Las ideas mencionadas sobre poder constituyente y el poder constituido.
 Las fuentes del derecho y la importancia de la jurisprudencia, ¿coincide con nuestro país?, ¿en qué se diferencia?
 Las sentencias y su relación con el derecho penal, ¿coincide con nuestro país?
 Lo que menciona sobre los derechos humanos.
+
 Origen del juicio de amparo
 -
 Lea el capítulo “[El origen del juicio de amparo](http://biblio.juridicas.unam.mx/libros/libro.htm?l=2289)”, de Jesús Ángel Arroyo Moreno, del libro La génesis de los derechos humanos en México.
