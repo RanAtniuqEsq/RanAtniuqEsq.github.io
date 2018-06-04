@@ -2,3 +2,4 @@
 - [Guía Derecho procesal constitucional](guias/constitucional/guia.md)  
 - [Guía de garantias en amparo penal](guias/anwar/guia.md)
 - [Guía de poder judicial](guias/pj.md)
+- [Criminalistica](guias/cc/cc.md)
