@@ -3,3 +3,4 @@
 - [Guía de garantias en amparo penal](guias/anwar/guia.md)
 - [Guía de poder judicial](guias/pj.md)
 - [Criminalistica](guias/cc/cc.md)
+- [Ley Penal](guias/ley_penal/ley_penal.md)
